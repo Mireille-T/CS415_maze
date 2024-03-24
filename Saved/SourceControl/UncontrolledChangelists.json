@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/UIUC/CS/415_GameDevelopment/maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/maze/Content/FirstPerson/Input/Actions/IA_Run.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/maze/Content/FirstPerson/Input/Actions/IA_ToggleRun.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/maze/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/maze/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
 				"D:/Documents/Unreal Projects/maze/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
