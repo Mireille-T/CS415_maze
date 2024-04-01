@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/CustommacLib.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/CustomMacLibrary.uasset",
 				"D:/Documents/Unreal Projects/maze/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
