@@ -1628,3 +1628,168 @@ LogInit: Object subsystem initialized
 [2024.04.01-19.06.37:135][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 5.72 sec)
 [2024.04.01-19.06.37:137][271]AssetCheck: New page: Asset Save: BP_MAZE
 [2024.04.01-19.06.37:137][271]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.07.54:911][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.04.01-19.07.54:920][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.07.55:080][698]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.07.55:082][698]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZECF8ADF6F41FBB7A9FE5FB29F17FAAEFE.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.07.55:096][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 5.89 sec)
+[2024.04.01-19.07.55:099][698]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.07.55:099][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.07.56:847][794]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.01-19.07.56:910][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.04.01-19.08.08:926][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.01-19.08.08:933][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.08.09:078][490]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.08.09:079][490]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE53C01F4D4E6E4C6D8D72E8859EC52F2B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.08.09:095][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 6.05 sec)
+[2024.04.01-19.08.09:098][490]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.08.09:098][490]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.08.24:283][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.01-19.08.24:289][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.08.24:421][  6]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.08.24:422][  6]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3A34E4E94BCA302643F543B3669F68C1.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.08.24:436][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 6.20 sec)
+[2024.04.01-19.08.24:438][  6]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.08.24:438][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.09.15:082][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.01-19.09.15:087][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.09.15:219][993]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.09.15:221][993]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEF8C5E9954F64CE6C60853F92AB47B2CA.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.09.15:235][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.35 sec)
+[2024.04.01-19.09.15:238][993]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.09.15:239][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.09.37:471][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.01-19.09.37:476][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.09.37:616][610]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.09.37:617][610]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEE3F15B094D9DB8B5A30E48B65B7A7C83.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.09.37:631][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 6.50 sec)
+[2024.04.01-19.09.37:633][610]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.09.37:633][610]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.10.07:926][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.01-19.10.07:931][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.10.08:067][ 23]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.10.08:069][ 23]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEC6CE896947817C9C880C468EAF44BD19.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.10.08:082][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 6.65 sec)
+[2024.04.01-19.10.08:084][ 23]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.10.08:084][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.10.55:801][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.04.01-19.10.55:806][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.10.55:949][155]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.10.55:950][155]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE6B06ABEB4D11CB35FF86618C0EA76D4D.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.10.55:964][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 6.81 sec)
+[2024.04.01-19.10.55:967][155]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.10.55:967][155]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.11.47:870][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.01-19.11.47:876][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.11.48:018][ 47]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.11.48:020][ 47]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEE57E2437498F74CF74500891D482C87C.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.11.48:035][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 6.97 sec)
+[2024.04.01-19.11.48:037][ 47]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.11.48:037][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.11.50:637][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.04.01-19.11.50:643][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.11.50:785][181]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.11.50:786][181]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEBBAFD9B04608AAB310D172A7A595A11D.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.11.50:803][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 7.13 sec)
+[2024.04.01-19.11.50:805][181]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.11.50:805][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.11.53:875][352]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.01-19.11.53:948][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.01-19.11.58:454][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.01-19.11.58:460][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.11.58:596][613]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.11.58:598][613]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEC46C0B6D465A19A6139C419AA885E3A4.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.11.58:613][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 7.28 sec)
+[2024.04.01-19.11.58:615][613]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.11.58:615][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.12.54:687][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.01-19.12.54:692][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.12.54:838][572]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.12.54:839][572]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE1F870E764FD789AA04B7978578210DB3.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.12.54:853][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 7.44 sec)
+[2024.04.01-19.12.54:857][572]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.12.54:857][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.13.00:155][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.01-19.13.00:161][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.13.00:298][858]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.13.00:300][858]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE7D300C4948745CC815B221AF6D58EF33.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.13.00:317][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 7.60 sec)
+[2024.04.01-19.13.00:319][858]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.13.00:319][858]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.13.23:819][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.01-19.13.23:824][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.13.23:961][510]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.13.23:963][510]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3DCC830F4F102F82BE33BB94EAA34A72.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.13.23:978][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 7.75 sec)
+[2024.04.01-19.13.23:981][510]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.13.23:981][510]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.13.48:284][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.01-19.13.48:290][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-19.13.48:427][864]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.01-19.13.48:428][864]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE7872E12B4D4EE02FC225D5A9B5E18612.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.01-19.13.48:444][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 7.91 sec)
+[2024.04.01-19.13.48:447][864]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.01-19.13.48:447][864]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.01-19.13.50:629][982]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.01-19.13.50:716][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.01-19.14.09:134][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.01-19.14.09:134][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.01-19.14.09:148][585]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_0
+[2024.04.01-19.14.09:160][585]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_0
+[2024.04.01-19.14.09:181][585]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.01-19.14.09:812][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.01-19.14.09:812][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.01-19.14.09:825][613]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.09:838][613]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:282][709]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:282][709]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:282][709]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:282][709]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:420][717]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:420][717]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:420][717]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:420][717]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:627][729]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:627][729]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:627][729]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:627][729]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:735][735]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:735][735]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:735][735]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:735][735]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:789][738]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:790][738]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:790][738]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:790][738]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:819][739]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:819][739]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.28:819][739]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.28:819][739]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.29:221][761]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.29:222][761]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.14.29:222][761]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.14.29:222][761]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.06:437][992]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.06:437][992]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.06:437][992]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.06:437][992]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.08:942][140]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.08:943][140]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.08:943][140]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.08:943][140]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.09:515][174]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.09:515][174]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.09:515][174]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.09:515][174]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.09:669][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.09:669][183]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.09:669][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.09:669][183]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.10:279][219]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.10:279][219]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.10:279][219]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.10:279][219]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.11:104][268]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.11:105][268]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
+[2024.04.01-19.15.11:105][268]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Set_ToArray_Result_1' of length 0 in '/Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C:Backtrack'!
+[2024.04.01-19.15.11:105][268]LogScript: Warning: Script Msg called by: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D2503E801_1483740679
