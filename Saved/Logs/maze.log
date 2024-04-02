@@ -2154,3 +2154,409 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.02-21.32.45:633][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager
 [2024.04.02-21.32.47:246][554]BlueprintLog: New page: Compile BP_InstanceManager
 [2024.04.02-21.32.47:282][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.02-21.34.02:234][453]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.02-21.34.02:234][453]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.02-21.34.02:248][453]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_0
+[2024.04.02-21.34.02:259][453]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_0
+[2024.04.02-21.34.02:284][453]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.02-21.34.03:373][506]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.02-21.34.03:374][506]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C
+[2024.04.02-21.34.03:385][506]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.34.03:398][506]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE as actor: BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.34.08:670][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager_C
+[2024.04.02-21.34.08:670][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager_C
+[2024.04.02-21.34.08:671][807]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager as actor: BP_InstanceManager_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_InstanceManager_C_0
+[2024.04.02-21.34.08:671][807]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager as actor: BP_InstanceManager_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_InstanceManager_C_0
+[2024.04.02-21.34.09:616][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager_C
+[2024.04.02-21.34.09:616][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager_C
+[2024.04.02-21.34.09:618][862]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager as actor: BP_InstanceManager_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_InstanceManager_C_UAID_B44506462D255BE801_1794263168
+[2024.04.02-21.34.09:619][862]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager as actor: BP_InstanceManager_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_InstanceManager_C_UAID_B44506462D255BE801_1794263168
+[2024.04.02-21.34.16:837][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.02-21.34.16:842][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.34.16:935][283]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3F/JO6K5S4JYGV1YGJ9BQA0G3
+[2024.04.02-21.34.16:935][283]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/JO6K5S4JYGV1YGJ9BQA0G32841DE47483536B2189EB8BDF9D4EF74.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3F/JO6K5S4JYGV1YGJ9BQA0G3.uasset'
+[2024.04.02-21.34.16:942][283]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O
+[2024.04.02-21.34.16:942][283]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/M04Y1CWDUMPJ48X50X7O8OBB4712734E95F0285B7E2194A464440E.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O.uasset'
+[2024.04.02-21.34.16:969][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.42 sec)
+[2024.04.02-21.34.16:971][283]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.02-21.34.16:971][283]LogContentValidation: Display: Validating /Game/MazeComponents/Blueprints/BP_InstanceManager.BP_InstanceManager_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_InstanceManager_C_UAID_B44506462D255BE801_1794263168
+[2024.04.02-21.34.16:971][283]LogContentValidation: Display: Validating /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.34.18:033][344]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.02-21.34.18:042][344]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.02-21.34.18:042][344]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.04.02-21.34.18:045][344]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms
+[2024.04.02-21.34.18:054][344]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.02-21.34.18:055][344]LogPlayLevel: [PlayLevel] Compiling BP_MAZE before play...
+[2024.04.02-21.34.18:181][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.02-21.34.18:182][344]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2024.04.02-21.34.18:185][344]PIE: New page: PIE session: FirstPersonMap (Apr 2, 2024, 11:34:18 AM)
+[2024.04.02-21.34.18:190][344]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.02-21.34.18:191][344]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.02-21.34.18:191][344]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.02-21.34.18:198][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006336s)
+[2024.04.02-21.34.18:198][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006460s)
+[2024.04.02-21.34.18:213][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.02-21.34.18:214][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-21.34.18:214][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-21.34.18:215][344]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.04.02-21.34.18:215][344]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.02-21.34.18:215][344]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.02-21.34.18:215][344]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.02-21.34.18:216][344]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.02-21.34.18:217][344]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.04.02-21.34.18:217][344]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 262 ms)
+[2024.04.02-21.34.18:217][344]LogPlayLevel: PIE: World Init took: (0.003181s)
+[2024.04.02-21.34.18:217][344]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.02-21.34.18:217][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-21.34.18:217][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-21.34.18:217][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-21.34.18:217][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-21.34.18:217][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.02-21.34.18:218][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.02-21.34.18:218][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.02-21.34.18:218][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-21.34.18:218][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-21.34.18:218][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-21.34.18:218][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-21.34.18:221][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-21.34.18:265][344]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.02-21.34.18:266][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-21.34.18:266][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-21.34.18:266][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-21.34.18:266][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.02-21.34.18:266][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.04.02-21.34.18:269][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.02-21.34.18:269][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.02-21.34.18:269][344]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.02-21.34.18:269][344]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.04.02-21.34.18:269][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.02-21.34.18:276][344]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.02-21.34.18:280][344]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.04.02-16.34.18
+[2024.04.02-21.34.18:280][344]LogWorld: Bringing up level for play took: 0.004056
+[2024.04.02-21.34.18:283][344]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.02-21.34.18:299][344]PIE: Server logged in
+[2024.04.02-21.34.18:299][344]PIE: Play in editor total start time 0.256 seconds.
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: ================================================
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: Total job queries 5, among them cache hits 0 (0.00%)
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: RAM used: 112.41 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.02-21.34.18:395][345]LogShaderCompilers: Display: ================================================
+[2024.04.02-21.34.19:987][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-21.34.19:987][437]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.02-21.34.19:987][437]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-21.34.19:988][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-21.34.19:988][437]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.02-21.34.19:994][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-21.34.19:999][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-21.34.20:014][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.02-21.34.20:014][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.02-21.34.20:015][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.02-21.34.20:017][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.02-21.34.20:032][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-21.34.20:037][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.02-21.34.20:080][438]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.02-21.34.29:084][965]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.31:965][132]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.32:988][190]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.37:049][423]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.38:986][532]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.43:984][825]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-21.34.46:188][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.02-21.34.46:193][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.34.46:286][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2024.04.02-21.34.46:287][953]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/W1SXRCM1KAKBJOIZDLHZ472272FF014C8204D9BCF6D19C1341CC6B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2024.04.02-21.34.46:308][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 3.54 sec)
+[2024.04.02-21.34.46:309][953]AssetCheck: New page: Asset Save: PlayerStart_0
+[2024.04.02-21.34.46:310][953]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0
+[2024.04.02-21.35.17:157][791]LogSlate: Took 0.000581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.02-21.35.38:952][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.02-21.35.38:960][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.35.39:114][544]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.35.39:115][544]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZED346753143AEB1C885765DBB01195368.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.35.39:130][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 3.71 sec)
+[2024.04.02-21.35.39:132][544]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.35.39:132][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.35.42:424][722]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.35.42:505][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.02-21.36.32:878][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.02-21.36.32:883][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.36.33:018][595]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.36.33:020][595]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3440DC69492DB73B18683D8249E75AE1.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.36.33:034][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.86 sec)
+[2024.04.02-21.36.33:036][595]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.36.33:036][595]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.36.47:946][445]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.36.48:026][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.02-21.36.49:559][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.02-21.37.08:965][621]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-21.37.08:966][621]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-21.37.17:780][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.02-21.37.17:785][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.37.17:878][141]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O
+[2024.04.02-21.37.17:878][141]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/M04Y1CWDUMPJ48X50X7O8O056123A7407A4B61327CD3A7285D42CD.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O.uasset'
+[2024.04.02-21.37.17:891][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 3.97 sec)
+[2024.04.02-21.37.17:893][141]AssetCheck: New page: Asset Save: BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.37.17:893][141]LogContentValidation: Display: Validating /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.37.49:307][530]LogViewport: Scene viewport resized to 1139x569, mode Windowed.
+[2024.04.02-21.38.38:778][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.02-21.38.38:784][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.38.38:918][329]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.38.38:918][329]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE56D121B547BA14731274FF9A10915814.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.38.38:934][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 4.12 sec)
+[2024.04.02-21.38.38:936][329]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.38.38:936][329]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.39.14:346][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.02-21.39.14:348][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.04.02-21.39.14:349][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MazeComponents/Blueprints/BP_MAZE] ([2] browsable assets)...
+[2024.04.02-21.39.14:349][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeComponents/Blueprints/BP_MAZE]
+[2024.04.02-21.39.14:391][ 83]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeComponents/Blueprints/BP_MAZE_Auto3
+[2024.04.02-21.39.14:391][ 83]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE_Auto380CE81584F93AA28AC6B17AE4C66D41A.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/Autosaves/Game/MazeComponents/Blueprints/BP_MAZE_Auto3.uasset'
+[2024.04.02-21.39.14:392][ 83]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.04.02-21.39.50:521][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.02-21.39.50:526][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.39.50:670][927]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.39.50:671][927]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE06B6550D4CF50A3D2061E599B644A9BB.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.39.50:685][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 4.28 sec)
+[2024.04.02-21.39.50:687][927]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.39.50:687][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.41.10:884][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.02-21.41.10:890][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.41.11:028][651]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.41.11:030][651]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEA50831F747729B638AE6B4BCBF3AA15D.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.41.11:042][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 4.43 sec)
+[2024.04.02-21.41.11:045][651]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.41.11:045][651]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.41.46:354][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.02-21.41.46:360][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.41.46:499][541]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.41.46:500][541]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEB7E87FD14B6A9EB8147ECEB7E843E361.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.41.46:515][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 4.58 sec)
+[2024.04.02-21.41.46:517][541]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.41.46:517][541]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.41.50:282][755]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.41.50:362][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.02-21.42.21:182][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.02-21.42.21:188][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.42.21:283][543]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O
+[2024.04.02-21.42.21:283][543]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/M04Y1CWDUMPJ48X50X7O8OC9160CF14A20CCD5C474E682E02A1C13.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QD/M04Y1CWDUMPJ48X50X7O8O.uasset'
+[2024.04.02-21.42.21:296][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.69 sec)
+[2024.04.02-21.42.21:298][543]AssetCheck: New page: Asset Save: BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.42.21:298][543]LogContentValidation: Display: Validating /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_MAZE_C_UAID_B44506462D255BE801_1788022167
+[2024.04.02-21.43.31:581][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.02-21.43.31:587][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.43.31:730][  8]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.43.31:732][  8]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE9554BAFD456824394972498172A9F003.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.43.31:746][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 4.85 sec)
+[2024.04.02-21.43.31:749][  8]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.43.31:749][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.44.15:920][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.02-21.44.15:927][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.44.16:069][316]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.44.16:071][316]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEC603119140FB39988DFB2E90B4DEBFC9.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.44.16:083][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 5.00 sec)
+[2024.04.02-21.44.16:086][316]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.44.16:086][316]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.44.50:741][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.02-21.44.50:748][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.44.50:894][393]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.44.50:896][393]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZED2FD2C5C44665FE284259D97721B0A0C.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.44.50:910][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 5.16 sec)
+[2024.04.02-21.44.50:912][393]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.44.50:912][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.44.52:159][462]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.44.52:233][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.02-21.45.51:456][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.02-21.45.51:462][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.45.51:603][175]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.45.51:605][175]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3B8BBC13422A27F48566E4887CDE658B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.45.51:618][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 5.32 sec)
+[2024.04.02-21.45.51:621][175]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.45.51:621][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.45.53:709][293]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.45.53:781][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.02-21.46.17:747][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.02-21.46.17:753][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.46.17:894][954]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.46.17:895][954]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEE87A7D0D4893215A65DC7594C880B24F.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.46.17:910][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 5.48 sec)
+[2024.04.02-21.46.17:912][954]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.46.17:912][954]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.47.54:478][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.04.02-21.47.54:483][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.47.54:627][658]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.47.54:628][658]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEDD3CE33E4EE380215AE3398B50612753.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.47.54:642][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 5.64 sec)
+[2024.04.02-21.47.54:644][658]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.47.54:644][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.47.56:021][729]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.47.56:103][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.02-21.48.25:755][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.02-21.48.25:760][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.48.25:905][470]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.48.25:906][470]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZECD4C68D24A23B08662B69B8DC05FEDA2.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.48.25:921][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 5.80 sec)
+[2024.04.02-21.48.25:924][470]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.48.25:924][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.48.32:653][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.02-21.48.32:658][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.48.32:802][832]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.48.32:803][832]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE9E9E30924805CD70C69745A5801DE8DD.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.48.32:817][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 5.96 sec)
+[2024.04.02-21.48.32:819][832]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.48.32:819][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.49.25:205][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.02-21.49.25:210][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.49.25:345][911]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.49.25:346][911]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE902AF8274C077A7F904372A0FD11773B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.49.25:361][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 6.11 sec)
+[2024.04.02-21.49.25:363][911]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.49.25:363][911]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.49.57:066][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.02-21.49.57:071][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.49.57:224][559]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.49.57:225][559]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3F0F992946063B71CBA1638D7EE0D531.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.49.57:238][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 6.27 sec)
+[2024.04.02-21.49.57:240][559]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.49.57:241][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.49.58:955][647]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.49.59:031][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.02-21.51.02:009][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.02-21.51.02:017][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.51.02:155][406]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.51.02:157][406]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE757BB1AF44A60E8F171A19A6046F7D74.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.51.02:172][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 6.43 sec)
+[2024.04.02-21.51.02:174][406]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.51.02:174][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.51.15:018][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.02-21.51.15:023][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.51.15:167][149]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.51.15:169][149]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE50AE2B69460CF7A1499F548023B7065D.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.51.15:182][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 6.59 sec)
+[2024.04.02-21.51.15:184][149]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.51.15:184][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.51.19:126][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.02-21.51.20:435][419]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.51.20:509][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.02-21.51.52:711][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.04.02-21.51.52:717][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.51.52:858][166]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.51.52:860][166]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE4A8739D548A4A316B701949B267DF23C.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.51.52:874][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 6.75 sec)
+[2024.04.02-21.51.52:877][166]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.51.52:877][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.52.11:056][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.02-21.52.11:062][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.52.11:205][618]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.52.11:206][618]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE64DA207A4C016C1437510A98B05C545B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.52.11:221][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 6.91 sec)
+[2024.04.02-21.52.11:224][618]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.52.11:224][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.56.23:215][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.04.02-21.56.23:221][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.56.23:366][836]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.56.23:366][836]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEA371D8AC4AE35046024EC8A9D0BCDF2E.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.56.23:381][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 7.07 sec)
+[2024.04.02-21.56.23:384][836]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.56.23:384][836]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.56.25:810][967]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.56.25:888][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.02-21.57.05:572][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.02-21.57.05:581][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.57.05:735][629]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.57.05:736][629]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZEA7A5686F483DBE11207C1FB2B1BDCE70.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.57.05:753][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 7.24 sec)
+[2024.04.02-21.57.05:755][629]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.57.05:755][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.57.08:965][809]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.57.09:050][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.02-21.57.09:547][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.02-21.57.09:553][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.57.09:733][832]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.57.09:734][832]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE105C306F4358AD19DBBDBE8FC26CAA0B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.57.09:750][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 7.43 sec)
+[2024.04.02-21.57.09:753][832]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.57.09:753][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.58.18:936][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.02-21.58.18:943][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.58.19:093][741]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.58.19:093][741]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE3E28C0F849290B08CCF1B4A420262624.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.58.19:107][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 7.60 sec)
+[2024.04.02-21.58.19:110][741]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.58.19:110][741]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.58.21:754][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.02-21.58.21:761][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.58.21:915][893]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.58.21:916][893]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE505E341842C7EE91B67B9FA903AE8DE5.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.58.21:930][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 7.77 sec)
+[2024.04.02-21.58.21:933][893]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.58.21:933][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.58.23:245][962]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.58.23:359][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.04.02-21.58.41:843][439]LogSlate: Window 'Delete Variable' being destroyed
+[2024.04.02-21.58.59:380][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.02-21.58.59:389][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-21.58.59:570][389]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-21.58.59:570][389]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE647D22A34816AC5A4FD321994FF8462B.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-21.58.59:585][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 7.96 sec)
+[2024.04.02-21.58.59:587][389]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-21.58.59:588][389]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-21.59.01:382][479]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-21.59.01:470][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.02-22.00.03:849][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.02-22.00.03:855][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.00.04:010][907]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.00.04:011][907]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE7AD1FF7649F3243943E585A6E92969F3.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.00.04:025][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 8.13 sec)
+[2024.04.02-22.00.04:027][907]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.00.04:027][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-22.00.19:687][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.02-22.00.19:692][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.00.19:842][582]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.00.19:843][582]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE2963166E4165CC629027D69FD88F8D44.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.00.19:858][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 8.30 sec)
+[2024.04.02-22.00.19:861][582]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.00.19:861][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-22.01.15:115][591]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.02-22.01.29:945][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.02-22.01.29:951][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.01.30:095][467]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.01.30:096][467]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE112A0964495DBF659E73A994DF586B55.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.01.30:111][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 8.46 sec)
+[2024.04.02-22.01.30:113][467]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.01.30:113][467]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-22.01.34:063][666]BlueprintLog: New page: Compile BP_MAZE
+[2024.04.02-22.01.34:144][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.02-22.02.16:767][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.02-22.02.16:769][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2024.04.02-22.02.16:770][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MazeComponents/Blueprints/BP_MAZE] ([2] browsable assets)...
+[2024.04.02-22.02.16:780][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE]
+[2024.04.02-22.02.16:780][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeComponents/Blueprints/BP_MAZE]
+[2024.04.02-22.02.16:834][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeComponents/Blueprints/BP_MAZE_Auto4
+[2024.04.02-22.02.16:834][248]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE_Auto4B3F577B6444DB875A6AA37B8E10425F6.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/Autosaves/Game/MazeComponents/Blueprints/BP_MAZE_Auto4.uasset'
+[2024.04.02-22.02.16:836][248]LogFileHelpers: Auto-saving content packages took 0.066
+[2024.04.02-22.03.02:500][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.02-22.03.02:505][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.03.02:652][124]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.03.02:653][124]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE77D1F73C424D863EFF24D898AAB0ECBE.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.03.02:668][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 8.62 sec)
+[2024.04.02-22.03.02:671][124]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.03.02:671][124]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-22.04.14:511][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.04.02-22.04.14:517][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.04.14:663][605]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.04.14:664][605]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE4B28910A4DF193482BD1E9B5D8934826.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.04.14:679][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 8.78 sec)
+[2024.04.02-22.04.14:682][605]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.04.14:682][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
+[2024.04.02-22.05.20:230][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.02-22.05.20:238][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-22.05.20:401][172]LogSavePackage: Moving output files for package: /Game/MazeComponents/Blueprints/BP_MAZE
+[2024.04.02-22.05.20:402][172]LogSavePackage: Moving '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Saved/BP_MAZE7C9D262E4EE0467DD720AA8DDA4CE765.tmp' to '../../../../../../Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset'
+[2024.04.02-22.05.20:416][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 8.96 sec)
+[2024.04.02-22.05.20:418][172]AssetCheck: New page: Asset Save: BP_MAZE
+[2024.04.02-22.05.20:418][172]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MazeComponents/Blueprints/BP_MAZE.BP_MAZE
