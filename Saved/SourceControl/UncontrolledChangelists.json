@@ -6,8 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_MAZE.uasset",
-				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/CustommacLib.uasset",
 				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/CustomMacLibrary.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/Maze_Wall.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_InstanceManager.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BPI_InstanceManager.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Meshes/Floor_400x400.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/Floor_400x400.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/BP_Interface.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5Y/7LY45D462AP5KZVPGWB98S.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/LevelDesignProject/CS415_maze/Content/MazeComponents/Blueprints/CustommacLib.uasset",
 				"D:/Documents/Unreal Projects/maze/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
