@@ -1253,3 +1253,4 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.15-04.23.06:402][687]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.04.15-04.23.06:402][687]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2024.04.15-04.23.06:402][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-04.24.41:670][ 50]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2481 files in 3850 folders with total size 199 MiB.
