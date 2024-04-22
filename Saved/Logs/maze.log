@@ -2260,3 +2260,1403 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.22-06.35.01:671][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.22-06.35.01:681][976]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2024.04.22-06.35.01:681][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.35.54:449][647]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/WB_InventoryGrid.WB_InventoryGrid
+[2024.04.22-06.35.54:449][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.35.54:450][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.35.54:479][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.35.54:479][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.35.57:028][776]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/WB_InventorySlot.WB_InventorySlot
+[2024.04.22-06.35.57:028][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.35.57:028][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.35.57:054][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.35.57:054][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.36.11:157][579]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:173][580]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:424][593]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:444][594]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:459][595]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:475][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:491][597]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:508][598]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:524][599]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:541][600]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:558][601]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:574][602]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:591][603]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:608][604]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:624][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.11:642][606]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WB_PlayerScreen_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:WB_PlayerScreen_C_2
+	Function /Game/Inventory/UI/WB_PlayerScreen.WB_PlayerScreen_C:ExecuteUbergraph_WB_PlayerScreen:011C
+[2024.04.22-06.36.13:575][722]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/WB_ActionMenu.WB_ActionMenu
+[2024.04.22-06.36.13:575][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.36.13:575][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.36.13:593][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.36.13:593][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.36.42:051][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.36.42:117][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.36.42:167][360]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.36.42:168][360]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemB5F98A7241291ECA546E208417C628E2.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.36.42:180][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.58 sec)
+[2024.04.22-06.36.42:184][360]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.36.42:184][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.36.53:370][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.36.53:428][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.36.53:477][  7]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.36.53:477][  7]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem15F700884B6748CEC803109D6E700873.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.36.53:489][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.70 sec)
+[2024.04.22-06.36.53:493][  7]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.36.53:493][  7]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.36.55:595][129]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-06.36.55:684][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.22-06.37.00:587][406]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-06.37.00:587][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.37.01:616][465]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-06.37.01:617][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.37.34:535][392]LogSlate: Took 0.007889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.22-06.38.12:712][665]LogDerivedDataCache: C:/Users/oddly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2287 files in 3282 folders with total size 148 MiB.
+[2024.04.22-06.38.28:502][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.38.28:565][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.38.28:617][564]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.38.28:618][564]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemD5AB9DB346EFD88BB88F4BBE0A08514C.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.38.28:630][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 4.82 sec)
+[2024.04.22-06.38.28:633][564]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.38.28:633][564]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.38.51:926][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.38.51:993][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.38.52:049][950]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.38.52:049][950]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem83A25F624538836040444B972621E4AA.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.38.52:061][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 4.96 sec)
+[2024.04.22-06.38.52:066][950]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.38.52:066][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.39.34:047][458]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-06.39.34:126][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.22-06.39.37:364][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.39.37:427][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.39.37:475][631]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.39.37:476][631]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemE7952209407F9FC47FABE48E1C44C6F8.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.39.37:489][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 5.09 sec)
+[2024.04.22-06.39.37:492][631]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.39.37:492][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.44.55:532][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.44.55:596][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.44.55:643][331]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.44.55:644][331]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem05AB75B8440A3C5C98427A8171020E13.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.44.55:654][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.21 sec)
+[2024.04.22-06.44.55:657][331]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.44.55:657][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.44.57:217][425]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-06.44.57:284][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.04.22-06.45.04:328][823]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Inventory/FItemStruct.FItemStruct
+[2024.04.22-06.45.07:259][989]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.04.22-06.45.21:207][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.45.21:272][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/FItemStruct" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/FItemStruct.uasset" SILENT=true
+[2024.04.22-06.45.21:274][769]LogSavePackage: Moving output files for package: /Game/Inventory/FItemStruct
+[2024.04.22-06.45.21:275][769]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/FItemStructA43E568847516C341044698A94973933.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/FItemStruct.uasset'
+[2024.04.22-06.45.21:287][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.29 sec)
+[2024.04.22-06.45.21:288][769]AssetCheck: New page: Asset Save: FItemStruct
+[2024.04.22-06.45.21:288][769]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Inventory/FItemStruct.FItemStruct
+[2024.04.22-06.45.29:701][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.45.29:751][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.45.29:797][250]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.45.29:798][250]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem8FB083B541B5AFB169C077A0F325FFFE.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.45.29:811][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.40 sec)
+[2024.04.22-06.45.29:814][250]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.45.29:814][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.45.32:038][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.45.32:106][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/WB_InventorySlot" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/UI/WB_InventorySlot.uasset" SILENT=true
+[2024.04.22-06.45.32:133][367]LogSavePackage: Moving output files for package: /Game/Inventory/UI/WB_InventorySlot
+[2024.04.22-06.45.32:133][367]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/WB_InventorySlot54AF09154464BAFAC98097A0EA191DFA.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/UI/WB_InventorySlot.uasset'
+[2024.04.22-06.45.32:147][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.51 sec)
+[2024.04.22-06.45.32:151][367]AssetCheck: New page: Asset Save: WB_InventorySlot
+[2024.04.22-06.45.32:151][367]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/WB_InventorySlot.WB_InventorySlot
+[2024.04.22-06.45.36:031][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.45.36:101][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemData" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset" SILENT=true
+[2024.04.22-06.45.36:103][583]LogSavePackage: Moving output files for package: /Game/Inventory/ItemData
+[2024.04.22-06.45.36:103][583]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/ItemData64DF0711435D959688C36A9D0AD4765E.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset'
+[2024.04.22-06.45.36:115][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.59 sec)
+[2024.04.22-06.45.36:117][583]AssetCheck: New page: Asset Save: ItemData
+[2024.04.22-06.45.36:117][583]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Inventory/ItemData.ItemData
+[2024.04.22-06.45.46:439][161]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.22-06.45.46:464][161]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.22-06.45.46:475][162]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.22-06.45.48:278][270]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2024.04.22-06.45.48:279][270]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: ================================================
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Total job queries 119, among them cache hits 16 (13.45%)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Tracking 101 distinct input hashes that result in 83 distinct outputs (82.18%)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: RAM used: 2.75 MiB of 819.20 MiB budget. Usage: 0.34%
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Shaders Compiled: 86
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Jobs assigned 86, completed 86 (100%)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Average time worker was idle: 106.21 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Time job spent in pending queue: average 4.06 s, longest 15.12 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Job execution time: average 7.48 s, max 14.72 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Job life time (pending + execution): average 11.53 s, max 17.49
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Shader code size: average 48.725 KiB, min 32.617 KiB, max 72.324 KiB
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.08 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 3.07 jobs/batch
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Average processing rate: 4.51 jobs/sec
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Total thread time: 127.284 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Total thread preprocess time: 5.305 s
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Percentage time preprocessing: 4.17%
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Effective parallelization: 6.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 1.95 sec, max 1.98 sec, min 1.91 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.90% of total time (compiled    6 times, average 1.46 sec, max 2.94 sec, min 0.69 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.64% of total time (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.42% of total time (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.06% of total time (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.05% of total time (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-06.46.10:412][886]LogShaderCompilers: Display: ================================================
+[2024.04.22-06.46.35:732][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.46.35:798][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemData" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset" SILENT=true
+[2024.04.22-06.46.35:799][969]LogSavePackage: Moving output files for package: /Game/Inventory/ItemData
+[2024.04.22-06.46.35:800][969]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/ItemDataE93AFB1D4518C5F7F28F10B628B770AA.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset'
+[2024.04.22-06.46.35:810][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.67 sec)
+[2024.04.22-06.46.35:811][969]AssetCheck: New page: Asset Save: ItemData
+[2024.04.22-06.46.35:811][969]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Inventory/ItemData.ItemData
+[2024.04.22-06.47.36:490][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.04.22-06.47.36:496][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MazeLevels/First_Maze_Level' took 0.033
+[2024.04.22-06.47.36:496][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/InventorySystem] ([2] browsable assets)...
+[2024.04.22-06.47.36:496][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/InventorySystem]
+[2024.04.22-06.47.36:542][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/InventorySystem_Auto2
+[2024.04.22-06.47.36:543][697]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem_Auto2D87A7A704D1B09D0756BFA8F9AB98191.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/InventorySystem_Auto2.uasset'
+[2024.04.22-06.47.36:545][697]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/UI/WB_DragPreview] ([2] browsable assets)...
+[2024.04.22-06.47.36:549][697]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/UI/WB_DragPreview.WB_DragPreview]
+[2024.04.22-06.47.36:549][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/WB_DragPreview]
+[2024.04.22-06.47.36:556][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto2
+[2024.04.22-06.47.36:557][697]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/WB_DragPreview_Auto296DCA3E84DED42A39007FF8A7A9310B7.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto2.uasset'
+[2024.04.22-06.47.36:558][697]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Items/TEST_Item] ([2] browsable assets)...
+[2024.04.22-06.47.36:600][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Items/TEST_Item.TEST_Item]
+[2024.04.22-06.47.36:600][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Items/TEST_Item]
+[2024.04.22-06.47.36:608][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Items/TEST_Item_Auto2
+[2024.04.22-06.47.36:608][697]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_Auto26422B4EC4583EEC2B20CF89A2838FB01.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/Items/TEST_Item_Auto2.uasset'
+[2024.04.22-06.47.36:610][697]LogFileHelpers: Auto-saving content packages took 0.114
+[2024.04.22-06.48.26:919][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.48.26:982][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-06.48.27:028][878]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-06.48.27:029][878]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemE7EAF2A64DA2283047AB28B0170C8043.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-06.48.27:040][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 5.79 sec)
+[2024.04.22-06.48.27:043][878]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-06.48.27:044][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-06.48.31:282][132]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-06.48.31:353][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.22-07.20.49:779][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.04.22-07.20.49:785][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MazeLevels/First_Maze_Level' took 0.032
+[2024.04.22-07.20.49:785][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/InventorySystem] ([2] browsable assets)...
+[2024.04.22-07.20.49:785][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/InventorySystem]
+[2024.04.22-07.20.49:838][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/InventorySystem_Auto3
+[2024.04.22-07.20.49:839][731]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem_Auto3AF4B6EB641E0FAD29BD8868F800BA8B2.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/InventorySystem_Auto3.uasset'
+[2024.04.22-07.20.49:840][731]LogFileHelpers: Auto-saving content packages took 0.056
+[2024.04.22-07.22.28:520][402]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-07.22.28:591][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.04.22-07.22.30:364][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.22.30:438][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.22.30:488][487]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.22.30:489][487]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemF651F9CD412D68464F41FA8A677F1B90.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.22.30:501][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 5.93 sec)
+[2024.04.22-07.22.30:504][487]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.22.30:504][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.22.36:441][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.22.36:441][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.22.36:442][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.22.39:031][885]LogViewport: Scene viewport resized to 1098x750, mode Windowed.
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: ================================================
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Total job queries 124, among them cache hits 18 (14.52%)
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 84 distinct outputs (80.77%)
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: RAM used: 2.81 MiB of 819.20 MiB budget. Usage: 0.34%
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Shaders Compiled: 86
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Jobs assigned 86, completed 86 (100%)
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Average time worker was idle: 106.21 s
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Time job spent in pending queue: average 4.06 s, longest 15.12 s
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Job execution time: average 7.48 s, max 14.72 s
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Job life time (pending + execution): average 11.53 s, max 17.49
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Shader code size: average 48.725 KiB, min 32.617 KiB, max 72.324 KiB
+[2024.04.22-07.23.58:943][379]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.08 s
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 3.07 jobs/batch
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Average processing rate: 4.51 jobs/sec
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Total thread time: 127.284 s
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Total thread preprocess time: 5.305 s
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Percentage time preprocessing: 4.17%
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Effective parallelization: 6.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 1.95 sec, max 1.98 sec, min 1.91 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.90% of total time (compiled    6 times, average 1.46 sec, max 2.94 sec, min 0.69 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.64% of total time (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.42% of total time (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.06% of total time (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.05% of total time (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-07.23.58:944][379]LogShaderCompilers: Display: ================================================
+[2024.04.22-07.23.59:184][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.24.59:473][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.24.59:671][397]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.24.59:671][397]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacter5F66ECE44AD61A5D30DA7BA1E26AFDAB.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.24.59:688][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 6.14 sec)
+[2024.04.22-07.24.59:692][397]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.24.59:693][397]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.25.00:053][414]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.25.00:261][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.22-07.26.10:920][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.26.11:075][607]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.26.11:076][607]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacterFA3ECA5741A57C55360692B428E433BD.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.26.11:089][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 6.31 sec)
+[2024.04.22-07.26.11:092][607]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.26.11:092][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.26.14:856][813]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.26.15:078][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.22-07.27.24:823][574]LogEditorTransaction: Undo Promote To Variable
+[2024.04.22-07.27.50:141][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.27.50:287][800]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.27.50:288][800]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacter18791F0A4C2BF2F0091E06A2B316403D.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.27.50:300][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 6.47 sec)
+[2024.04.22-07.27.50:303][800]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.27.50:303][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.27.52:308][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.27.52:370][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.27.52:427][900]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.27.52:427][900]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem773B5033449A060DF08E4E94AFE9EDD1.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.27.52:441][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.60 sec)
+[2024.04.22-07.27.52:445][900]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.27.52:445][900]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.29.42:178][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.29.42:238][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.29.42:293][691]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.29.42:294][691]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystemAFF551134C277C1AD01EBDA474EB41AD.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.29.42:307][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 6.73 sec)
+[2024.04.22-07.29.42:310][691]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.29.42:310][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.29.42:905][726]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-07.29.42:931][726]LogBlueprint: Error: [AssetLog] C:\Users\oddly\Documents\GitHub\CS415_maze\Content\Inventory\InventorySystem.uasset: [Compiler] The property associated with  Equipped Item  could not be found in '/Game/Inventory/InventorySystem.InventorySystem_C'
+[2024.04.22-07.29.42:994][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.22-07.29.55:037][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.29.55:168][405]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.29.55:168][405]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacterD2C0CA304AA9C274E4A1EA90C9BF3C6B.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.29.55:182][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.88 sec)
+[2024.04.22-07.29.55:185][405]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.29.55:185][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.29.55:619][425]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.29.55:775][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.04.22-07.29.58:270][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.29.58:331][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.29.58:381][533]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.29.58:381][533]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem2659BAB34547DBC93EA6648CADC7E691.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.29.58:395][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 7.00 sec)
+[2024.04.22-07.29.58:398][533]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.29.58:398][533]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.29.58:648][546]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-07.29.58:730][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.04.22-07.30.01:949][680]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.30.01:973][680]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-07.30.01:975][680]LogPlayLevel: [PlayLevel] Compiling TEST_Item before play...
+[2024.04.22-07.30.02:014][680]LogPlayLevel: [PlayLevel] Compiling WB_InventorySlot before play...
+[2024.04.22-07.30.02:074][680]LogPlayLevel: [PlayLevel] Compiling WB_DragPreview before play...
+[2024.04.22-07.30.02:116][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.04.22-07.30.02:121][680]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (3 blueprints)
+[2024.04.22-07.30.02:121][680]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:30:02 PM)
+[2024.04.22-07.30.02:121][680]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.30.02:128][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006777s)
+[2024.04.22-07.30.02:128][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.006845s)
+[2024.04.22-07.30.02:150][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.22-07.30.02:151][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.30.02:151][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.30.02:152][680]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.30.02:152][680]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2024.04.22-07.30.02:153][680]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.30.02:153][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.30.02:153][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.30.02:153][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.30.02:154][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.30.02:154][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.30.02:156][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.30.02:255][680]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.30.02:255][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.30.02:255][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.30.02:255][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.30.02:256][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.22-07.30.02:256][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.22-07.30.02:260][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.22-07.30.02:260][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.22-07.30.02:260][680]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.22-07.30.02:260][680]LogAudio: Display: Audio Device (ID: 10) registered with world 'First_Maze_Level'.
+[2024.04.22-07.30.02:260][680]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.22-07.30.02:267][680]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.30.02:279][680]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.30.02
+[2024.04.22-07.30.02:280][680]LogWorld: Bringing up level for play took: 0.013021
+[2024.04.22-07.30.02:283][680]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.04.22-07.30.02:292][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.30.02:292][680]PIE: Server logged in
+[2024.04.22-07.30.02:293][680]PIE: Play in editor total start time 0.321 seconds.
+[2024.04.22-07.30.05:437][858]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.30.05:437][858]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.30.05:437][858]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.30.11:334][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.30.11:334][199]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.30.11:335][199]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.30.11:336][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.30.11:340][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.30.11:349][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.30.11:370][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.30.11:371][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.22-07.30.11:371][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.22-07.30.11:373][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.22-07.30.11:392][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.22-07.30.11:469][200]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.04.22-07.30.28:385][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.30.28:408][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.30.28:408][719]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:30:28 PM)
+[2024.04.22-07.30.28:408][719]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.30.28:424][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015195s)
+[2024.04.22-07.30.28:424][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.015300s)
+[2024.04.22-07.30.28:455][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.04.22-07.30.28:458][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.30.28:458][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.30.28:459][719]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.30.28:459][719]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2024.04.22-07.30.28:459][719]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.22-07.30.28:459][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.30.28:459][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.30.28:459][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.30.28:459][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.30.28:459][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.30.28:460][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.30.28:460][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.30.28:460][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.30.28:460][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.30.28:460][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.30.28:460][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.30.28:462][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.30.28:552][719]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.30.28:552][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.30.28:552][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.30.28:552][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.30.28:553][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.22-07.30.28:553][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.22-07.30.28:556][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.22-07.30.28:556][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.22-07.30.28:556][719]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.22-07.30.28:556][719]LogAudio: Display: Audio Device (ID: 11) registered with world 'First_Maze_Level'.
+[2024.04.22-07.30.28:556][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.22-07.30.28:561][719]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.30.28:575][719]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.30.28
+[2024.04.22-07.30.28:575][719]LogWorld: Bringing up level for play took: 0.013262
+[2024.04.22-07.30.28:579][719]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.04.22-07.30.28:585][719]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.30.28:585][719]PIE: Server logged in
+[2024.04.22-07.30.28:586][719]PIE: Play in editor total start time 0.179 seconds.
+[2024.04.22-07.30.31:630][892]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.30.31:631][892]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.30.31:631][892]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.30.34:942][ 86]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.30.34:943][ 86]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.30.37:670][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.30.37:670][246]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.30.37:670][246]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.30.37:672][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.30.37:677][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.30.37:686][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.30.37:707][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.30.37:708][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.22-07.30.37:708][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.22-07.30.37:710][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.22-07.30.37:730][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.04.22-07.30.37:809][247]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.04.22-07.31.03:275][320]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.22-07.31.31:028][518]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.22-07.31.34:464][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.22-07.31.34:474][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MazeLevels/First_Maze_Level' took 0.039
+[2024.04.22-07.31.34:474][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/UI/WB_DragPreview] ([2] browsable assets)...
+[2024.04.22-07.31.34:474][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/WB_DragPreview]
+[2024.04.22-07.31.34:483][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto4
+[2024.04.22-07.31.34:483][583]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/WB_DragPreview_Auto4C948CFB94572FD2FD15713AD66C12A28.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto4.uasset'
+[2024.04.22-07.31.34:485][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Items/TEST_Item] ([2] browsable assets)...
+[2024.04.22-07.31.34:485][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Items/TEST_Item]
+[2024.04.22-07.31.34:494][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Items/TEST_Item_Auto4
+[2024.04.22-07.31.34:494][583]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_Auto468F63FE444E99BA4AAE95A9F22BE7506.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/Items/TEST_Item_Auto4.uasset'
+[2024.04.22-07.31.34:495][583]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.04.22-07.32.47:702][885]LogContentBrowser: Deferred new asset file creation: Shape_Trim1
+[2024.04.22-07.32.47:729][885]LogContentBrowser: Creating deferred item: Shape_Trim1
+[2024.04.22-07.32.47:747][886]LogContentBrowser: Renaming the item being created (Deferred Item: Shape_Trim1).
+[2024.04.22-07.32.59:552][590]LogContentBrowser: Attempting asset rename: Shape_Trim1 -> TESET_Item_Mesh
+[2024.04.22-07.32.59:973][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.33.00:062][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Shapes/TESET_Item_Mesh" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/StarterContent/Shapes/TESET_Item_Mesh.uasset" SILENT=true
+[2024.04.22-07.33.00:070][590]LogSavePackage: Moving output files for package: /Game/StarterContent/Shapes/TESET_Item_Mesh
+[2024.04.22-07.33.00:070][590]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh5735ACC9499BFC9AB73A6E929359A30C.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/StarterContent/Shapes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.33.00:391][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 418 ms (total: 7.42 sec)
+[2024.04.22-07.33.00:781][590]LogContentBrowser: End creating deferred item Shape_Trim1
+[2024.04.22-07.33.00:782][590]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.33.00:782][590]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StarterContent/Shapes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.33.42:673][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.33.42:754][831]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.33.42:754][831]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh2791024A427610CFFDFA70AEF3BAB5D2.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.33.43:117][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 444 ms (total: 7.87 sec)
+[2024.04.22-07.33.43:552][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.04.22-07.33.43:577][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.22-07.33.43:601][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.22-07.33.43:949][831]SourceControl: rm 'Content/StarterContent/Shapes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.33.43:976][831]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.33.43:976][831]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.33.46:466][974]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.33.46:487][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.33.46:487][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.33.47:636][974]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.04.22-07.35.00:292][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.35.00:360][972]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.35.00:361][972]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_MeshC086197D49EBC464A822599896844D5D.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.35.00:373][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 7.95 sec)
+[2024.04.22-07.35.00:376][972]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.35.00:376][972]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.35.14:081][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.35.14:154][359]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.35.14:155][359]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh02E2AB9648A082FB5084F38459489FA1.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.35.14:167][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 8.03 sec)
+[2024.04.22-07.35.14:169][359]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.35.14:169][359]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.35.18:316][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.35.18:333][493]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-07.35.18:334][493]LogPlayLevel: [PlayLevel] Compiling TEST_Item before play...
+[2024.04.22-07.35.18:374][493]LogPlayLevel: [PlayLevel] Compiling WB_DragPreview before play...
+[2024.04.22-07.35.18:418][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.22-07.35.18:427][493]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (2 blueprints)
+[2024.04.22-07.35.18:427][493]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:35:18 PM)
+[2024.04.22-07.35.18:427][493]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.35.18:434][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006457s)
+[2024.04.22-07.35.18:434][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.006511s)
+[2024.04.22-07.35.18:455][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.04.22-07.35.18:458][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.35.18:458][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.35.18:459][493]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.35.18:459][493]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2024.04.22-07.35.18:460][493]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.35.18:460][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.35.18:460][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.35.18:460][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.35.18:460][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.35.18:460][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.35.18:463][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.35.18:565][493]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.35.18:565][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.35.18:565][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.35.18:565][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.35.18:566][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.22-07.35.18:566][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.22-07.35.18:568][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.22-07.35.18:568][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.22-07.35.18:568][493]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.22-07.35.18:568][493]LogAudio: Display: Audio Device (ID: 12) registered with world 'First_Maze_Level'.
+[2024.04.22-07.35.18:568][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.22-07.35.18:574][493]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.35.18:589][493]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.35.18
+[2024.04.22-07.35.18:590][493]LogWorld: Bringing up level for play took: 0.014231
+[2024.04.22-07.35.18:592][493]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.04.22-07.35.18:600][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.35.18:600][493]PIE: Server logged in
+[2024.04.22-07.35.18:601][493]PIE: Play in editor total start time 0.268 seconds.
+[2024.04.22-07.35.20:833][618]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.35.20:833][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.35.20:834][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.35.24:378][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.35.24:378][822]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.35.24:378][822]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.35.24:380][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.35.24:384][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.35.24:392][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.35.24:414][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.35.24:414][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.22-07.35.24:414][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.22-07.35.24:417][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.22-07.35.24:427][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.35.24:438][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.04.22-07.35.24:517][823]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.04.22-07.35.32:505][966]LogSlate: Window 'Message' being destroyed
+[2024.04.22-07.35.32:537][966]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to TESET_Item_Mesh?
+
+(No will lose all changes!)
+[2024.04.22-07.35.32:541][966]LogStaticMesh: Display: Building static mesh TESET_Item_Mesh...
+[2024.04.22-07.35.32:552][966]LogStaticMesh: Built static mesh [0.01s] /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.35.32:793][966]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.35.32:793][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.35.35:927][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.35.35:953][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.35.35:953][ 94]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:35:35 PM)
+[2024.04.22-07.35.35:953][ 94]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.35.35:967][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014740s)
+[2024.04.22-07.35.35:968][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.014828s)
+[2024.04.22-07.35.36:003][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.04.22-07.35.36:010][ 94]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.35.36:010][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.35.36:011][ 94]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.35.36:011][ 94]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2024.04.22-07.35.36:011][ 94]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.22-07.35.36:011][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.35.36:011][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.35.36:011][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.35.36:011][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.35.36:012][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.35.36:012][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.35.36:012][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.35.36:012][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.35.36:012][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.35.36:012][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.35.36:012][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.35.36:016][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.35.36:108][ 94]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.35.36:109][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.35.36:109][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.35.36:109][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.35.36:110][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.22-07.35.36:110][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.22-07.35.36:114][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.22-07.35.36:114][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.22-07.35.36:114][ 94]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.22-07.35.36:114][ 94]LogAudio: Display: Audio Device (ID: 13) registered with world 'First_Maze_Level'.
+[2024.04.22-07.35.36:114][ 94]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.22-07.35.36:119][ 94]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.35.36:134][ 94]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.35.36
+[2024.04.22-07.35.36:134][ 94]LogWorld: Bringing up level for play took: 0.014770
+[2024.04.22-07.35.36:138][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.04.22-07.35.36:145][ 94]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.35.36:145][ 94]PIE: Server logged in
+[2024.04.22-07.35.36:147][ 94]PIE: Play in editor total start time 0.195 seconds.
+[2024.04.22-07.35.38:399][221]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.35.38:399][221]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.35.38:399][221]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.35.41:820][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.35.41:820][420]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.35.41:820][420]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.35.41:822][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.35.41:826][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.35.41:833][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.35.41:855][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.35.41:855][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.22-07.35.41:855][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.22-07.35.41:856][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.22-07.35.41:865][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.35.41:876][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.04.22-07.35.41:950][421]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.04.22-07.35.54:830][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.35.54:981][ 63]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.35.54:982][ 63]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacterCC750FAC4CA0E315ABE43F8EB876FCAA.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.35.54:995][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 8.20 sec)
+[2024.04.22-07.35.54:997][ 63]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.35.54:997][ 63]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.35.55:350][ 82]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.35.55:564][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.22-07.36.00:878][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.36.00:893][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.36.00:893][334]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:36:00 PM)
+[2024.04.22-07.36.00:894][334]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.36.00:902][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008739s)
+[2024.04.22-07.36.00:902][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.008817s)
+[2024.04.22-07.36.00:941][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.04.22-07.36.00:953][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.36.00:953][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.36.00:954][334]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.36.00:955][334]LogPlayLevel: PIE: World Init took: (0.002924s)
+[2024.04.22-07.36.00:955][334]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.22-07.36.00:955][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.36.00:955][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.36.00:956][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.36.00:956][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.36.00:956][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.36.00:956][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.36.00:956][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.36.00:956][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.36.00:956][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.36.00:957][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.36.00:957][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.36.00:960][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.36.01:063][334]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.36.01:064][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.36.01:064][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.36.01:064][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.36.01:065][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.22-07.36.01:065][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.22-07.36.01:067][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.22-07.36.01:067][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.22-07.36.01:067][334]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.22-07.36.01:067][334]LogAudio: Display: Audio Device (ID: 14) registered with world 'First_Maze_Level'.
+[2024.04.22-07.36.01:067][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.22-07.36.01:073][334]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.36.01:086][334]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.36.01
+[2024.04.22-07.36.01:087][334]LogWorld: Bringing up level for play took: 0.013687
+[2024.04.22-07.36.01:090][334]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.04.22-07.36.01:098][334]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.36.01:098][334]PIE: Server logged in
+[2024.04.22-07.36.01:099][334]PIE: Play in editor total start time 0.206 seconds.
+[2024.04.22-07.36.03:051][439]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.36.03:051][439]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.36.03:051][439]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.36.08:285][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.36.08:285][745]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.36.08:285][745]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.36.08:287][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.36.08:291][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.36.08:300][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.36.08:320][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.36.08:321][745]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.22-07.36.08:321][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.22-07.36.08:323][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.22-07.36.08:332][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.36.08:343][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.04.22-07.36.08:407][746]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.04.22-07.36.34:291][ 28]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-07.36.43:958][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.36.44:138][495]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.36.44:139][495]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacter80C936454140071C540FFDB88A45AF41.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.36.44:152][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 8.39 sec)
+[2024.04.22-07.36.44:155][495]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.36.44:155][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.36.44:896][536]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.36.45:295][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.22-07.36.47:061][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.36.47:076][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.36.47:077][587]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:36:47 PM)
+[2024.04.22-07.36.47:077][587]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.36.47:085][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008775s)
+[2024.04.22-07.36.47:085][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.008843s)
+[2024.04.22-07.36.47:124][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.04.22-07.36.47:133][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.36.47:133][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.36.47:134][587]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.36.47:135][587]LogPlayLevel: PIE: World Init took: (0.002567s)
+[2024.04.22-07.36.47:135][587]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.22-07.36.47:135][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.36.47:135][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.36.47:135][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.36.47:135][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.36.47:135][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.36.47:136][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.36.47:136][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.36.47:136][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.36.47:136][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.36.47:136][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.36.47:136][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.36.47:140][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.36.47:241][587]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.36.47:242][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.36.47:242][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.36.47:242][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.36.47:243][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.22-07.36.47:243][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.22-07.36.47:245][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.22-07.36.47:245][587]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.22-07.36.47:245][587]LogAudio: Display: Audio Device (ID: 15) registered with world 'First_Maze_Level'.
+[2024.04.22-07.36.47:246][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.22-07.36.47:246][587]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.22-07.36.47:251][587]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.36.47:266][587]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.36.47
+[2024.04.22-07.36.47:267][587]LogWorld: Bringing up level for play took: 0.014612
+[2024.04.22-07.36.47:269][587]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.04.22-07.36.47:277][587]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.36.47:277][587]PIE: Server logged in
+[2024.04.22-07.36.47:278][587]PIE: Play in editor total start time 0.203 seconds.
+[2024.04.22-07.36.49:392][705]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.36.49:392][705]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.36.49:392][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.36.52:781][903]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.36.52:781][903]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.37.00:842][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.37.00:842][377]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.37.00:842][377]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.37.00:844][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.37.00:849][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.37.00:856][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.37.00:877][377]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.37.00:877][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.22-07.37.00:877][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.22-07.37.00:880][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.22-07.37.00:889][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.37.00:899][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.04.22-07.37.00:981][378]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.04.22-07.37.12:717][956]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.37.12:729][956]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.37.12:729][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.37.13:710][956]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.04.22-07.37.26:952][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.37.27:062][408]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.37.27:062][408]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh5FE76D234B8951A51ACFE1B4C78A33C7.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.37.27:078][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 8.52 sec)
+[2024.04.22-07.37.27:080][408]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.37.27:080][408]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.37.29:216][480]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.37.29:231][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.37.29:231][480]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:37:29 PM)
+[2024.04.22-07.37.29:231][480]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.37.29:240][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008362s)
+[2024.04.22-07.37.29:240][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.008433s)
+[2024.04.22-07.37.29:273][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.04.22-07.37.29:276][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.37.29:276][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.37.29:277][480]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.37.29:277][480]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2024.04.22-07.37.29:277][480]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.37.29:277][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.37.29:277][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.37.29:279][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.37.29:279][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.37.29:279][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.37.29:283][480]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.37.29:391][480]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.37.29:392][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.37.29:392][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.37.29:392][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.37.29:393][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.22-07.37.29:393][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.22-07.37.29:396][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.22-07.37.29:396][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.22-07.37.29:396][480]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.22-07.37.29:396][480]LogAudio: Display: Audio Device (ID: 16) registered with world 'First_Maze_Level'.
+[2024.04.22-07.37.29:396][480]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.22-07.37.29:401][480]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.37.29:417][480]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.37.29
+[2024.04.22-07.37.29:417][480]LogWorld: Bringing up level for play took: 0.015739
+[2024.04.22-07.37.29:420][480]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.04.22-07.37.29:429][480]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.37.29:429][480]PIE: Server logged in
+[2024.04.22-07.37.29:431][480]PIE: Play in editor total start time 0.2 seconds.
+[2024.04.22-07.37.31:680][609]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.37.31:680][609]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.37.31:680][609]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.37.34:719][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.37.34:719][781]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.37.34:719][781]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.37.34:721][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.37.34:726][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.37.34:735][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.37.34:755][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.37.34:755][781]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.22-07.37.34:755][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.22-07.37.34:758][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.22-07.37.34:765][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.37.34:777][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.04.22-07.37.34:840][782]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.04.22-07.37.39:006][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.37.39:078][913]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.37.39:079][913]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh3C7578E94FEFBB9C751E4887D7A0652F.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.37.39:091][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 8.60 sec)
+[2024.04.22-07.37.39:091][913]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.37.39:091][913]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.37.49:120][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.37.49:193][241]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TESET_Item_Mesh
+[2024.04.22-07.37.49:194][241]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TESET_Item_Mesh475EE9024EC2D956ABE74091CDBB0C1E.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.37.49:208][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.69 sec)
+[2024.04.22-07.37.49:211][241]AssetCheck: New page: Asset Save: TESET_Item_Mesh
+[2024.04.22-07.37.49:211][241]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.37.52:690][271]LogSlate: Window 'Message' being destroyed
+[2024.04.22-07.37.52:700][271]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to TESET_Item_Mesh?
+
+(No will lose all changes!)
+[2024.04.22-07.37.52:704][271]LogStaticMesh: Display: Building static mesh TESET_Item_Mesh...
+[2024.04.22-07.37.52:708][271]LogStaticMesh: Built static mesh [0.01s] /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.37.52:943][271]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.37.52:943][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.37.54:222][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.37.54:242][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.37.54:242][307]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:37:54 PM)
+[2024.04.22-07.37.54:242][307]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.37.54:256][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013722s)
+[2024.04.22-07.37.54:256][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.013831s)
+[2024.04.22-07.37.54:299][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2024.04.22-07.37.54:310][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.37.54:311][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.37.54:311][307]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.37.54:312][307]LogPlayLevel: PIE: World Init took: (0.002483s)
+[2024.04.22-07.37.54:312][307]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.22-07.37.54:312][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.37.54:312][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.37.54:313][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.37.54:313][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.37.54:313][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.37.54:313][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.37.54:313][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.37.54:313][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.37.54:313][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.37.54:313][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.37.54:313][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.37.54:317][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.37.54:436][307]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.37.54:437][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.37.54:437][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.37.54:437][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.37.54:438][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.22-07.37.54:439][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.22-07.37.54:441][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.22-07.37.54:442][307]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.22-07.37.54:442][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.22-07.37.54:442][307]LogAudio: Display: Audio Device (ID: 17) registered with world 'First_Maze_Level'.
+[2024.04.22-07.37.54:442][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.22-07.37.54:448][307]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.37.54:466][307]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.37.54
+[2024.04.22-07.37.54:466][307]LogWorld: Bringing up level for play took: 0.018094
+[2024.04.22-07.37.54:470][307]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.04.22-07.37.54:480][307]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.37.54:480][307]PIE: Server logged in
+[2024.04.22-07.37.54:482][307]PIE: Play in editor total start time 0.241 seconds.
+[2024.04.22-07.37.56:741][413]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.37.56:741][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.37.56:741][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.38.01:153][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.38.01:153][664]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.38.01:153][664]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.38.01:155][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.38.01:160][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.38.01:170][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.38.01:193][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.38.01:194][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.22-07.38.01:194][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.22-07.38.01:196][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.22-07.38.01:204][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.38.01:215][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.22-07.38.01:274][665]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.04.22-07.38.04:479][762]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Inventory/Items/Meshes/TESET_Item_Mesh.TESET_Item_Mesh
+[2024.04.22-07.38.04:495][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.38.04:495][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.38.05:519][762]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.04.22-07.38.09:291][881]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.38.09:292][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.38.13:725][ 66]LogDerivedDataCache: C:/Users/oddly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2294 files in 3296 folders with total size 148 MiB.
+[2024.04.22-07.38.16:419][194]LogContentBrowser: Attempting asset rename: TESET_Item_Mesh -> TEST_Item_Mesh
+[2024.04.22-07.38.17:925][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.38.18:038][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Items/Meshes/TEST_Item_Mesh" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TEST_Item_Mesh.uasset" SILENT=true
+[2024.04.22-07.38.18:042][194]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TEST_Item_Mesh
+[2024.04.22-07.38.18:043][194]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_Mesh428D8E754E67F1BBFB090997D7026E4A.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TEST_Item_Mesh.uasset'
+[2024.04.22-07.38.18:441][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 516 ms (total: 9.21 sec)
+[2024.04.22-07.38.18:922][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.22-07.38.18:947][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.04.22-07.38.18:970][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.22-07.38.19:323][194]SourceControl: rm 'Content/Inventory/Items/Meshes/TESET_Item_Mesh.uasset'
+[2024.04.22-07.38.19:331][194]AssetCheck: New page: Asset Save: TEST_Item_Mesh
+[2024.04.22-07.38.19:332][194]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TEST_Item_Mesh.TEST_Item_Mesh
+[2024.04.22-07.38.31:563][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.38.31:629][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemData" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset" SILENT=true
+[2024.04.22-07.38.31:632][793]LogSavePackage: Moving output files for package: /Game/Inventory/ItemData
+[2024.04.22-07.38.31:633][793]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/ItemData502684BA442D436BFBE7C39DEF1D805B.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/ItemData.uasset'
+[2024.04.22-07.38.31:650][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 9.29 sec)
+[2024.04.22-07.38.31:654][793]AssetCheck: New page: Asset Save: ItemData
+[2024.04.22-07.38.31:654][793]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Inventory/ItemData.ItemData
+[2024.04.22-07.38.33:132][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.38.33:152][863]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-07.38.33:154][863]LogPlayLevel: [PlayLevel] Compiling TEST_Item before play...
+[2024.04.22-07.38.33:204][863]LogPlayLevel: [PlayLevel] Compiling WB_DragPreview before play...
+[2024.04.22-07.38.33:243][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.04.22-07.38.33:247][863]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (2 blueprints)
+[2024.04.22-07.38.33:247][863]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:38:33 PM)
+[2024.04.22-07.38.33:247][863]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.38.33:254][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006929s)
+[2024.04.22-07.38.33:254][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.006989s)
+[2024.04.22-07.38.33:277][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.04.22-07.38.33:279][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.38.33:280][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.38.33:280][863]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.38.33:281][863]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2024.04.22-07.38.33:281][863]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.38.33:281][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.38.33:281][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.38.33:282][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.38.33:282][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.38.33:282][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.38.33:284][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.38.33:381][863]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.38.33:382][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.38.33:382][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.38.33:382][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.38.33:385][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.04.22-07.38.33:385][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.04.22-07.38.33:387][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.04.22-07.38.33:387][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.04.22-07.38.33:387][863]LogInit: FAudioDevice initialized with ID 18.
+[2024.04.22-07.38.33:387][863]LogAudio: Display: Audio Device (ID: 18) registered with world 'First_Maze_Level'.
+[2024.04.22-07.38.33:387][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.22-07.38.33:392][863]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.38.33:406][863]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.38.33
+[2024.04.22-07.38.33:406][863]LogWorld: Bringing up level for play took: 0.013782
+[2024.04.22-07.38.33:409][863]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.04.22-07.38.33:416][863]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.38.33:416][863]PIE: Server logged in
+[2024.04.22-07.38.33:418][863]PIE: Play in editor total start time 0.267 seconds.
+[2024.04.22-07.38.35:292][964]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.38.35:292][964]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.38.35:292][964]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.38.40:739][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.38.40:739][279]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.38.40:740][279]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.38.40:744][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.38.40:750][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.38.40:763][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.38.40:783][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.38.40:784][279]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.22-07.38.40:784][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.22-07.38.40:786][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.22-07.38.40:803][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.22-07.38.40:864][280]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.04.22-07.39.23:877][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.39.24:054][525]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.39.24:054][525]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacter6ABAEB0040A3810ADAA238BD6AE221C6.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.39.24:068][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 9.48 sec)
+[2024.04.22-07.39.24:072][525]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.39.24:072][525]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.39.24:406][540]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.39.24:682][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.04.22-07.39.26:607][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.39.26:622][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.39.26:622][605]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:39:26 PM)
+[2024.04.22-07.39.26:622][605]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.39.26:632][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009507s)
+[2024.04.22-07.39.26:632][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.009601s)
+[2024.04.22-07.39.26:673][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.04.22-07.39.26:679][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.39.26:680][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.39.26:681][605]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.39.26:681][605]LogPlayLevel: PIE: World Init took: (0.002129s)
+[2024.04.22-07.39.26:681][605]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.22-07.39.26:681][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.39.26:681][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.39.26:681][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.39.26:682][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.39.26:682][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.39.26:682][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.39.26:682][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.39.26:682][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.39.26:683][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.39.26:683][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.39.26:683][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.39.26:687][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.39.26:783][605]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.39.26:783][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.39.26:783][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.39.26:783][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.39.26:784][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.22-07.39.26:784][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.22-07.39.26:787][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.22-07.39.26:787][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.22-07.39.26:787][605]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.22-07.39.26:787][605]LogAudio: Display: Audio Device (ID: 19) registered with world 'First_Maze_Level'.
+[2024.04.22-07.39.26:787][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.22-07.39.26:792][605]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.39.26:806][605]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.39.26
+[2024.04.22-07.39.26:806][605]LogWorld: Bringing up level for play took: 0.014051
+[2024.04.22-07.39.26:809][605]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.04.22-07.39.26:818][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.39.26:818][605]PIE: Server logged in
+[2024.04.22-07.39.26:819][605]PIE: Play in editor total start time 0.197 seconds.
+[2024.04.22-07.39.28:761][714]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.39.28:761][714]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.39.28:761][714]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.39.31:321][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.39.31:321][859]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.39.31:321][859]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.39.31:323][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.39.31:326][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.39.31:333][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.39.31:351][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.39.31:352][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.22-07.39.31:352][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.22-07.39.31:354][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.22-07.39.31:373][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.04.22-07.39.31:453][860]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.04.22-07.39.42:603][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.39.42:766][372]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.22-07.39.42:767][372]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonCharacter010F2B0C492BCC2999FE37B582C92A86.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.22-07.39.42:780][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 9.66 sec)
+[2024.04.22-07.39.42:784][372]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.22-07.39.42:784][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.22-07.39.45:586][511]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Inventory/Items/Meshes/TEST_Item_Mesh.TEST_Item_Mesh
+[2024.04.22-07.39.45:599][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.39.45:599][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.39.46:683][511]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.04.22-07.39.54:922][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.39.54:985][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Items/Meshes/TEST_Item_Mesh" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TEST_Item_Mesh.uasset" SILENT=true
+[2024.04.22-07.39.54:988][781]LogSavePackage: Moving output files for package: /Game/Inventory/Items/Meshes/TEST_Item_Mesh
+[2024.04.22-07.39.54:989][781]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_MeshC128519141D8B10EC9CBA586FB5C49D0.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/Items/Meshes/TEST_Item_Mesh.uasset'
+[2024.04.22-07.39.55:003][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 9.74 sec)
+[2024.04.22-07.39.55:005][781]AssetCheck: New page: Asset Save: TEST_Item_Mesh
+[2024.04.22-07.39.55:005][781]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Inventory/Items/Meshes/TEST_Item_Mesh.TEST_Item_Mesh
+[2024.04.22-07.39.57:297][823]LogSlate: Window 'Message' being destroyed
+[2024.04.22-07.39.57:335][823]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to TEST_Item_Mesh?
+
+(No will lose all changes!)
+[2024.04.22-07.39.57:337][823]LogStaticMesh: Display: Building static mesh TEST_Item_Mesh...
+[2024.04.22-07.39.57:340][823]LogStaticMesh: Built static mesh [0.00s] /Game/Inventory/Items/Meshes/TEST_Item_Mesh.TEST_Item_Mesh
+[2024.04.22-07.39.57:588][823]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.39.57:588][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.39.59:580][917]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.22-07.39.59:824][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.04.22-07.40.01:714][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.40.01:728][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.40.01:728][969]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:40:01 PM)
+[2024.04.22-07.40.01:728][969]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.40.01:738][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009005s)
+[2024.04.22-07.40.01:738][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.009078s)
+[2024.04.22-07.40.01:777][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.04.22-07.40.01:786][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.40.01:786][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.40.01:787][969]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.40.01:788][969]LogPlayLevel: PIE: World Init took: (0.002470s)
+[2024.04.22-07.40.01:788][969]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.40.01:788][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.40.01:788][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.40.01:789][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.40.01:790][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.40.01:790][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.40.01:794][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.40.01:898][969]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.40.01:898][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.40.01:898][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.40.01:898][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.40.01:899][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.22-07.40.01:899][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.22-07.40.01:903][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.22-07.40.01:903][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.22-07.40.01:903][969]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.22-07.40.01:903][969]LogAudio: Display: Audio Device (ID: 20) registered with world 'First_Maze_Level'.
+[2024.04.22-07.40.01:903][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.22-07.40.01:908][969]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.40.01:922][969]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.40.01
+[2024.04.22-07.40.01:922][969]LogWorld: Bringing up level for play took: 0.013932
+[2024.04.22-07.40.01:925][969]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.04.22-07.40.01:934][969]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.40.01:934][969]PIE: Server logged in
+[2024.04.22-07.40.01:935][969]PIE: Play in editor total start time 0.206 seconds.
+[2024.04.22-07.40.03:767][ 72]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.40.03:767][ 72]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.40.03:767][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.40.07:648][299]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.40.07:648][299]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.40.18:468][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.40.18:468][932]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.40.18:468][932]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.40.18:470][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.40.18:474][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.40.18:483][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.40.18:501][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.40.18:502][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.22-07.40.18:502][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.22-07.40.18:504][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.22-07.40.18:512][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.40.18:523][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.04.22-07.40.18:602][933]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.04.22-07.41.10:132][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.41.10:193][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.41.10:251][709]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.41.10:251][709]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem6EEEBB8F456AE7AAF43541A3E619D7D4.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.41.10:263][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 9.87 sec)
+[2024.04.22-07.41.10:266][709]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.41.10:267][709]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.43.23:618][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.43.23:685][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.43.23:745][348]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.43.23:746][348]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem30882A6C427AD6B28C97B49AB6B5927B.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.43.23:757][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 10.0 sec)
+[2024.04.22-07.43.23:761][348]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.43.23:761][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.43.24:338][383]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-07.43.24:423][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.04.22-07.43.26:757][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.43.26:781][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.43.26:781][468]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:43:26 PM)
+[2024.04.22-07.43.26:781][468]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.43.26:796][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014822s)
+[2024.04.22-07.43.26:796][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.014958s)
+[2024.04.22-07.43.26:834][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.04.22-07.43.26:838][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.43.26:839][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.43.26:839][468]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.43.26:840][468]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2024.04.22-07.43.26:840][468]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.43.26:840][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.43.26:840][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.43.26:840][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.43.26:840][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.43.26:840][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.43.26:843][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.43.26:941][468]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.43.26:941][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.43.26:941][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.43.26:941][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.43.26:942][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.22-07.43.26:942][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.22-07.43.26:945][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.22-07.43.26:945][468]LogInit: FAudioDevice initialized with ID 21.
+[2024.04.22-07.43.26:945][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.22-07.43.26:945][468]LogAudio: Display: Audio Device (ID: 21) registered with world 'First_Maze_Level'.
+[2024.04.22-07.43.26:945][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.22-07.43.26:949][468]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.43.26:962][468]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.43.26
+[2024.04.22-07.43.26:963][468]LogWorld: Bringing up level for play took: 0.012526
+[2024.04.22-07.43.26:965][468]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.04.22-07.43.26:972][468]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.43.26:972][468]PIE: Server logged in
+[2024.04.22-07.43.26:974][468]PIE: Play in editor total start time 0.194 seconds.
+[2024.04.22-07.43.29:045][585]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.43.29:045][585]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.43.29:045][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.43.33:591][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.43.33:591][849]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.43.33:591][849]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.43.33:593][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.43.33:598][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.43.33:605][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.43.33:626][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.43.33:627][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.22-07.43.33:627][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.22-07.43.33:629][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.22-07.43.33:646][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.22-07.43.33:707][850]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.04.22-07.43.59:580][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.04.22-07.43.59:584][979]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MazeLevels/First_Maze_Level' took 0.025
+[2024.04.22-07.43.59:585][979]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/UI/WB_DragPreview] ([2] browsable assets)...
+[2024.04.22-07.43.59:589][979]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/UI/WB_DragPreview.WB_DragPreview]
+[2024.04.22-07.43.59:589][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/WB_DragPreview]
+[2024.04.22-07.43.59:599][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto5
+[2024.04.22-07.43.59:600][979]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/WB_DragPreview_Auto55083BED9478DA13F1462F8B5063DD551.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/UI/WB_DragPreview_Auto5.uasset'
+[2024.04.22-07.43.59:601][979]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Items/TEST_Item] ([2] browsable assets)...
+[2024.04.22-07.43.59:643][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Items/TEST_Item.TEST_Item]
+[2024.04.22-07.43.59:643][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Items/TEST_Item]
+[2024.04.22-07.43.59:653][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Items/TEST_Item_Auto5
+[2024.04.22-07.43.59:653][979]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_Auto56AD2902C46D84CA6E99ED6A94C454720.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/Items/TEST_Item_Auto5.uasset'
+[2024.04.22-07.43.59:655][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Items/Meshes/TEST_Item_Mesh] ([1] browsable assets)...
+[2024.04.22-07.43.59:665][979]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Items/Meshes/TEST_Item_Mesh.TEST_Item_Mesh]
+[2024.04.22-07.43.59:665][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Items/Meshes/TEST_Item_Mesh]
+[2024.04.22-07.43.59:669][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Items/Meshes/TEST_Item_Mesh_Auto5
+[2024.04.22-07.43.59:669][979]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/TEST_Item_Mesh_Auto5693A6D214871A210C977A791DB3060AC.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Autosaves/Game/Inventory/Items/Meshes/TEST_Item_Mesh_Auto5.uasset'
+[2024.04.22-07.43.59:670][979]LogFileHelpers: Auto-saving content packages took 0.087
+[2024.04.22-07.48.26:180][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.48.26:248][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/WB_ActionMenu" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/UI/WB_ActionMenu.uasset" SILENT=true
+[2024.04.22-07.48.26:259][357]LogSavePackage: Moving output files for package: /Game/Inventory/UI/WB_ActionMenu
+[2024.04.22-07.48.26:260][357]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/WB_ActionMenu8833D746457AFD24E4BA14A6D481A1C6.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/UI/WB_ActionMenu.uasset'
+[2024.04.22-07.48.26:272][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 10.1 sec)
+[2024.04.22-07.48.26:275][357]AssetCheck: New page: Asset Save: WB_ActionMenu
+[2024.04.22-07.48.26:275][357]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/WB_ActionMenu.WB_ActionMenu
+[2024.04.22-07.48.26:642][379]BlueprintLog: New page: Compile WB_ActionMenu
+[2024.04.22-07.48.26:684][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.22-07.48.29:347][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.48.29:480][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.22-07.48.29:505][468]LogSavePackage: Moving output files for package: /Game/MazeLevels/First_Maze_Level
+[2024.04.22-07.48.29:506][468]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/First_Maze_Level77ADA3294311C61B50490EB9B92FCC8C.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap'
+[2024.04.22-07.48.29:515][468]LogFileHelpers: Saving map 'First_Maze_Level' took 0.091
+[2024.04.22-07.48.29:529][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 10.2 sec)
+[2024.04.22-07.48.29:532][468]AssetCheck: New page: Asset Save: First_Maze_Level
+[2024.04.22-07.48.29:532][468]LogContentValidation: Display: Validating /Script/Engine.World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-07.48.30:119][486]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.48.30:138][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.48.30:138][486]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:48:30 PM)
+[2024.04.22-07.48.30:139][486]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.48.30:149][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010176s)
+[2024.04.22-07.48.30:149][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.010274s)
+[2024.04.22-07.48.30:178][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.04.22-07.48.30:181][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.48.30:182][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.48.30:182][486]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.48.30:183][486]LogPlayLevel: PIE: World Init took: (0.002045s)
+[2024.04.22-07.48.30:183][486]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.48.30:183][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.48.30:183][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.48.30:184][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.48.30:184][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.48.30:184][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.48.30:188][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.48.30:282][486]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.48.30:282][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.48.30:282][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.48.30:282][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.48.30:283][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.04.22-07.48.30:283][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.04.22-07.48.30:286][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.04.22-07.48.30:286][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.04.22-07.48.30:287][486]LogInit: FAudioDevice initialized with ID 22.
+[2024.04.22-07.48.30:287][486]LogAudio: Display: Audio Device (ID: 22) registered with world 'First_Maze_Level'.
+[2024.04.22-07.48.30:287][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.22-07.48.30:292][486]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.48.30:305][486]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.48.30
+[2024.04.22-07.48.30:306][486]LogWorld: Bringing up level for play took: 0.013208
+[2024.04.22-07.48.30:308][486]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.04.22-07.48.30:317][486]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.48.30:317][486]PIE: Server logged in
+[2024.04.22-07.48.30:318][486]PIE: Play in editor total start time 0.18 seconds.
+[2024.04.22-07.48.32:320][598]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.48.32:320][598]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.48.32:321][598]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.48.39:774][ 36]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.48.39:774][ 36]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.48.40:947][106]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.48.40:947][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.48.40:947][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.48.43:066][228]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.48.43:066][228]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.48.44:538][315]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.48.44:538][315]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.48.44:538][315]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.48.47:381][482]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.48.47:381][482]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.48.58:539][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.48.58:539][136]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.48.58:540][136]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.48.58:541][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.48.58:546][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.48.58:553][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.48.58:575][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.48.58:575][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.22-07.48.58:575][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.22-07.48.58:578][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.22-07.48.58:597][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.22-07.48.58:670][137]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.04.22-07.49.24:497][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-07.49.24:560][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySystem" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset" SILENT=true
+[2024.04.22-07.49.24:627][502]LogSavePackage: Moving output files for package: /Game/Inventory/InventorySystem
+[2024.04.22-07.49.24:629][502]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/InventorySystem24BCB32E44982169210FF5BAABA71838.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/Inventory/InventorySystem.uasset'
+[2024.04.22-07.49.24:644][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 10.4 sec)
+[2024.04.22-07.49.24:648][502]AssetCheck: New page: Asset Save: InventorySystem
+[2024.04.22-07.49.24:648][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/InventorySystem.InventorySystem
+[2024.04.22-07.49.25:342][544]BlueprintLog: New page: Compile InventorySystem
+[2024.04.22-07.49.25:434][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.22-07.49.41:361][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-07.49.41:377][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-07.49.41:377][447]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 9:49:41 PM)
+[2024.04.22-07.49.41:377][447]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.49.41:385][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008151s)
+[2024.04.22-07.49.41:385][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.008242s)
+[2024.04.22-07.49.41:420][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.04.22-07.49.41:428][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-07.49.41:428][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-07.49.41:429][447]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-07.49.41:430][447]LogPlayLevel: PIE: World Init took: (0.001969s)
+[2024.04.22-07.49.41:430][447]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-07.49.41:430][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-07.49.41:430][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-07.49.41:432][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-07.49.41:432][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-07.49.41:432][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-07.49.41:435][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-07.49.41:532][447]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-07.49.41:532][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-07.49.41:532][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-07.49.41:532][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-07.49.41:533][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.04.22-07.49.41:533][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.04.22-07.49.41:536][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.04.22-07.49.41:536][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.04.22-07.49.41:536][447]LogInit: FAudioDevice initialized with ID 23.
+[2024.04.22-07.49.41:536][447]LogAudio: Display: Audio Device (ID: 23) registered with world 'First_Maze_Level'.
+[2024.04.22-07.49.41:536][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.22-07.49.41:541][447]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-07.49.41:555][447]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-02.49.41
+[2024.04.22-07.49.41:556][447]LogWorld: Bringing up level for play took: 0.013638
+[2024.04.22-07.49.41:558][447]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.22-07.49.41:565][447]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-07.49.41:566][447]PIE: Server logged in
+[2024.04.22-07.49.41:566][447]PIE: Play in editor total start time 0.191 seconds.
+[2024.04.22-07.49.44:762][629]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.49.44:762][629]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.49.44:762][629]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.49.47:193][771]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.49.47:193][771]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.49.49:395][899]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-07.49.49:395][899]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-07.49.49:395][899]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-07.49.52:569][ 84]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-07.49.52:569][ 84]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-07.49.53:335][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.49.53:335][126]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-07.49.53:335][126]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-07.49.53:337][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.49.53:342][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-07.49.53:350][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-07.49.53:368][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-07.49.53:369][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.22-07.49.53:369][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.22-07.49.53:371][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.22-07.49.53:380][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-07.49.53:390][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.04.22-07.49.53:466][127]LogPlayLevel: Display: Destroying online subsystem :Context_59
