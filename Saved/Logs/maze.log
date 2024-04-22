@@ -1213,3 +1213,170 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.22-05.36.44:595][  3]LogAssetRegistry: AssetRegistryGather time 0.3125s: AssetDataDiscovery 0.0888s, AssetDataGather 0.0912s, StoreResults 0.1324s.
 [2024.04.22-05.36.44:724][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2024.04.22-05.38.12:742][268]LogDerivedDataCache: C:/Users/oddly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.177 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2085 files in 3062 folders with total size 144 MiB.
+[2024.04.22-05.47.53:800][412]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.22-05.47.53:939][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.47.54:110][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.47.54:335][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: ================================================
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: RAM used: 43.07 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.22-05.47.54:532][423]LogShaderCompilers: Display: ================================================
+[2024.04.22-05.48.12:533][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.22-05.48.12:764][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.22-05.48.12:771][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.22-05.48.12:777][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.22-05.48.14:279][158]SourceControl: Error: Updated 0 paths from the index
+[2024.04.22-05.48.14:611][158]SourceControl: rm 'Content/MazeLevels/COPY_First_Maze_Level.umap'
+[2024.04.22-05.48.21:908][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.22-05.48.22:196][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.22-05.48.22:204][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.22-05.48.22:209][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.22-05.48.23:560][405]SourceControl: Error: Updated 0 paths from the index
+[2024.04.22-05.48.23:905][405]SourceControl: rm 'Content/Inventory/Inputs/IA_Interact.uasset'
+[2024.04.22-05.48.27:200][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.48.27:210][466]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007247 seconds
+[2024.04.22-05.48.27:227][466]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.04.22-05.48.27:228][466]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_Weapon_ComponentF06012F2438D30BBCADABCBB256B78F9.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.04.22-05.48.27:230][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.48.27:275][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" SILENT=true
+[2024.04.22-05.48.27:278][466]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2024.04.22-05.48.27:278][466]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/SK_FPGun_PhysicsAsset982DFD24428962D91D4A99A6D6ADA50D.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2024.04.22-05.48.27:280][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.48.27:468][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun_Skeleton" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" SILENT=true
+[2024.04.22-05.48.27:472][466]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2024.04.22-05.48.27:473][466]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/SK_FPGun_Skeleton95CA05B04E7DD1D13608928E116F7F0F.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2024.04.22-05.48.27:486][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun_Physics" FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" SILENT=true
+[2024.04.22-05.48.27:489][466]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Physics
+[2024.04.22-05.48.27:489][466]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/SK_FPGun_PhysicsB5F1A47840B1F4A11B6B32B97F05ACDF.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2024.04.22-05.48.27:491][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.48.27:566][466]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2024.04.22-05.48.27:567][466]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_Pickup_RifleE94721464368AADB96E3699692A7E401.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2024.04.22-05.48.27:568][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms
+[2024.04.22-05.48.27:582][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.22-05.48.27:585][466]LogUObjectGlobals: Warning: Could not delete
+[2024.04.22-05.48.27:591][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.22-05.48.27:603][466]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.22-05.48.27:603][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.04.22-05.48.27:603][466]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2024.04.22-05.48.27:603][466]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2024.04.22-05.48.27:603][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.04.22-05.48.32:890][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.48.32:894][586]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2024.04.22-05.48.32:895][586]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/BP_FirstPersonGameModeDBDB003C4E475DF1F5D7288B0975E2D7.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2024.04.22-05.48.32:897][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 6 ms (total: 374 ms)
+[2024.04.22-05.48.32:910][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.22-05.48.33:317][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.22-05.48.33:325][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.22-05.48.33:330][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.22-05.48.34:850][586]SourceControl: Error: Updated 0 paths from the index
+[2024.04.22-05.48.35:349][586]SourceControl: rm 'Content/FirstPerson/Blueprints/BP_FirstPersonCharacterMAIN.uasset'
+[2024.04.22-05.48.35:349][586]SourceControl: rm 'Content/FirstPerson/Blueprints/COPY_BP_FirstPersonCharacter.uasset'
+[2024.04.22-05.48.35:349][586]SourceControl: rm 'Content/FirstPerson/Input/IMC_Default_COPY.uasset'
+[2024.04.22-05.48.35:362][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.22-05.48.35:376][586]AssetCheck: New page: Asset Save: BP_FirstPersonGameMode
+[2024.04.22-05.48.46:212][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.48.46:393][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.48.46:947][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.48.46:950][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-05.48.46:968][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.22-05.48.46:973][867]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithNanite !
+[2024.04.22-05.48.47:034][867]MapCheck: Warning: M_Chair Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.04.22-05.48.47:285][867]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound needed to have new flag set bUsedWithNanite !
+[2024.04.22-05.48.47:351][867]MapCheck: Warning: M_TableRound Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.04.22-05.48.47:585][867]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/StarterMap
+[2024.04.22-05.48.47:587][867]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/StarterMap4A294BB34E23F7C171259D9A74DA35D2.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/StarterContent/Maps/StarterMap.umap'
+[2024.04.22-05.48.47:612][867]LogFileHelpers: All files are already saved.
+[2024.04.22-05.48.47:624][867]LogFileHelpers: Saving map 'StarterMap' took 0.676
+[2024.04.22-05.48.47:625][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-05.48.47:635][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.22-05.48.47:659][867]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2024.04.22-05.48.47:661][867]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/Minimal_Default7E90EE4B4CBDA3CFBB98F282D6CE0449.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.04.22-05.48.47:672][867]LogFileHelpers: All files are already saved.
+[2024.04.22-05.48.47:674][867]LogFileHelpers: Saving map 'Minimal_Default' took 0.049
+[2024.04.22-05.48.47:674][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 726 ms (total: 1.10 sec)
+[2024.04.22-05.48.47:687][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.22-05.48.48:064][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.22-05.48.48:073][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.22-05.48.48:081][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.22-05.48.50:507][867]SourceControl: Error: Updated 0 paths from the index
+[2024.04.22-05.48.51:142][867]SourceControl: rm 'Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2024.04.22-05.48.51:158][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-05.48.51:161][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.48.51:166][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-05.48.51:166][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.48.51:173][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.22-05.48.51:221][867]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.22-05.49.02:171][ 56]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-05.49.02:194][ 56]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-05.49.06:654][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.22-05.49.06:960][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.22-05.49.06:968][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.22-05.49.06:975][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.22-05.49.09:133][123]SourceControl: Error: Updated 0 paths from the index
+[2024.04.22-05.49.09:552][123]SourceControl: rm 'Content/UI/WBP_PlayerHUD.uasset'
+[2024.04.22-05.49.28:068][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-05.49.28:076][716]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-05.49.28:079][716]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2024.04.22-05.49.28:093][716]LogPlayLevel: [PlayLevel] Compiling BP_Pickup_Rifle before play...
+[2024.04.22-05.49.28:114][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.22-05.49.28:116][716]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (2 blueprints)
+[2024.04.22-05.49.28:116][716]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 7:49:28 PM)
+[2024.04.22-05.49.28:122][716]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.22-05.49.28:122][716]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.22-05.49.28:122][716]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-05.49.28:126][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003802s)
+[2024.04.22-05.49.28:126][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.003857s)
+[2024.04.22-05.49.28:132][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.22-05.49.28:132][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.49.28:132][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-05.49.28:133][716]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-05.49.28:134][716]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2024.04.22-05.49.28:134][716]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-05.49.28:134][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-05.49.28:134][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-05.49.28:135][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-05.49.28:135][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-05.49.28:135][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-05.49.28:137][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-05.49.28:246][716]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-05.49.28:247][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-05.49.28:247][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-05.49.28:247][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-05.49.28:249][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.22-05.49.28:249][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.22-05.49.28:252][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.22-05.49.28:252][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.22-05.49.28:252][716]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.22-05.49.28:252][716]LogAudio: Display: Audio Device (ID: 2) registered with world 'First_Maze_Level'.
+[2024.04.22-05.49.28:252][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.22-05.49.28:264][716]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-05.49.28:275][716]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-00.49.28
+[2024.04.22-05.49.28:276][716]LogWorld: Bringing up level for play took: 0.011515
+[2024.04.22-05.49.28:278][716]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.22-05.49.28:295][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-05.49.28:295][716]PIE: Server logged in
+[2024.04.22-05.49.28:296][716]PIE: Play in editor total start time 0.221 seconds.
+[2024.04.22-05.49.38:906][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-05.49.38:907][330]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-05.49.38:907][330]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-05.49.38:909][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.49.38:914][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-05.49.38:918][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.49.38:923][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-05.49.38:924][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.22-05.49.38:924][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.22-05.49.38:927][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.22-05.49.38:942][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.22-05.49.38:981][331]LogPlayLevel: Display: Destroying online subsystem :Context_7
