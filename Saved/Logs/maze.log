@@ -1380,3 +1380,233 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.22-05.49.38:927][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.04.22-05.49.38:942][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2024.04.22-05.49.38:981][331]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.22-05.51.06:374][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.51.06:519][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker_C
+[2024.04.22-05.51.06:519][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker_C
+[2024.04.22-05.51.06:524][907]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker as actor: BP_CollectibleChecker_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.BP_CollectibleChecker_C_0
+[2024.04.22-05.51.06:527][907]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker as actor: BP_CollectibleChecker_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.BP_CollectibleChecker_C_0
+[2024.04.22-05.51.06:546][908]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.22-05.51.07:153][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker_C
+[2024.04.22-05.51.07:153][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker_C
+[2024.04.22-05.51.07:164][928]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker as actor: BP_CollectibleChecker_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.BP_CollectibleChecker_C_1
+[2024.04.22-05.51.07:171][928]LogActorFactory: Actor Factory spawned Blueprint /Game/MazeComponents/Blueprints/BP_CollectibleChecker.BP_CollectibleChecker as actor: BP_CollectibleChecker_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.BP_CollectibleChecker_C_1
+[2024.04.22-05.51.07:381][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.51.36:307][720]Cmd: TRANSACTION UNDO
+[2024.04.22-05.51.36:307][720]LogEditorTransaction: Undo Move Elements
+[2024.04.22-05.51.37:841][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.51.37:958][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.22-05.51.37:974][752]LogSavePackage: Moving output files for package: /Game/MazeLevels/First_Maze_Level
+[2024.04.22-05.51.37:975][752]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/First_Maze_Level21B562434D4E14D936FECDAF42CEE8A1.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap'
+[2024.04.22-05.51.37:986][752]LogFileHelpers: Saving map 'First_Maze_Level' took 0.068
+[2024.04.22-05.51.38:002][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1.26 sec)
+[2024.04.22-05.51.38:005][752]AssetCheck: New page: Asset Save: First_Maze_Level
+[2024.04.22-05.51.38:005][752]LogContentValidation: Display: Validating /Script/Engine.World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-05.53.04:055][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.53.05:703][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Panel.Panel_C
+[2024.04.22-05.53.05:703][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Panel.Panel_C
+[2024.04.22-05.53.05:715][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Panel.Panel as actor: Panel_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Panel_C_0
+[2024.04.22-05.53.05:725][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Panel.Panel as actor: Panel_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Panel_C_0
+[2024.04.22-05.53.07:391][ 93]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Panel.Panel_C
+[2024.04.22-05.53.07:391][ 93]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Panel.Panel_C
+[2024.04.22-05.53.07:402][ 93]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Panel.Panel as actor: Panel_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Panel_C_1
+[2024.04.22-05.53.07:412][ 93]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Panel.Panel as actor: Panel_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Panel_C_1
+[2024.04.22-05.53.59:408][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.53.59:519][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.22-05.53.59:540][593]LogSavePackage: Moving output files for package: /Game/MazeLevels/First_Maze_Level
+[2024.04.22-05.53.59:540][593]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/First_Maze_Level09D0662A4891ECBEF1E748AFEC655F93.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap'
+[2024.04.22-05.53.59:550][593]LogFileHelpers: Saving map 'First_Maze_Level' took 0.080
+[2024.04.22-05.53.59:563][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1.41 sec)
+[2024.04.22-05.53.59:566][593]AssetCheck: New page: Asset Save: First_Maze_Level
+[2024.04.22-05.53.59:566][593]LogContentValidation: Display: Validating /Script/Engine.World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-05.54.10:320][938]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.54.23:819][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Pipe.Pipe_C
+[2024.04.22-05.54.23:819][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Pipe.Pipe_C
+[2024.04.22-05.54.23:821][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Pipe.Pipe as actor: Pipe_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Pipe_C_0
+[2024.04.22-05.54.23:824][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Pipe.Pipe as actor: Pipe_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Pipe_C_0
+[2024.04.22-05.54.24:851][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Pipe.Pipe_C
+[2024.04.22-05.54.24:851][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Pipe.Pipe_C
+[2024.04.22-05.54.24:856][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Pipe.Pipe as actor: Pipe_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Pipe_C_1
+[2024.04.22-05.54.24:858][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Pipe.Pipe as actor: Pipe_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Pipe_C_1
+[2024.04.22-05.56.40:136][670]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.56.40:296][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue_C
+[2024.04.22-05.56.40:296][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue_C
+[2024.04.22-05.56.40:308][670]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue as actor: Puzzle_1_Clue_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Puzzle_1_Clue_C_0
+[2024.04.22-05.56.40:322][670]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue as actor: Puzzle_1_Clue_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Puzzle_1_Clue_C_0
+[2024.04.22-05.56.40:882][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue_C
+[2024.04.22-05.56.40:882][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue_C
+[2024.04.22-05.56.40:896][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue as actor: Puzzle_1_Clue_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Puzzle_1_Clue_C_1
+[2024.04.22-05.56.40:909][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Puzzle_1_Clue.Puzzle_1_Clue as actor: Puzzle_1_Clue_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.Puzzle_1_Clue_C_1
+[2024.04.22-05.57.26:899][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-05.57.27:032][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.22-05.57.27:057][696]LogSavePackage: Moving output files for package: /Game/MazeLevels/First_Maze_Level
+[2024.04.22-05.57.27:058][696]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/First_Maze_LevelAB53E1194CFBB3A6C2C22FB607016066.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap'
+[2024.04.22-05.57.27:067][696]LogFileHelpers: Saving map 'First_Maze_Level' took 0.094
+[2024.04.22-05.57.27:081][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 1.59 sec)
+[2024.04.22-05.57.27:085][696]AssetCheck: New page: Asset Save: First_Maze_Level
+[2024.04.22-05.57.27:085][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-05.57.53:911][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.22-05.57.54:079][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.57.54:166][ 23]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MazeLevels/Second_Maze_Level.Second_Maze_Level
+[2024.04.22-05.57.54:166][ 23]Cmd: MAP LOAD FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/Second_Maze_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.22-05.57.54:166][ 23]LightingResults: New page: Lighting Build
+[2024.04.22-05.57.54:166][ 23]LoadErrors: New page: Loading map: Second_Maze_Level.umap
+[2024.04.22-05.57.54:200][ 23]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-05.57.54:200][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.57.54:201][ 23]MapCheck: New page: Map Check
+[2024.04.22-05.57.54:201][ 23]LightingResults: New page: Lighting Build
+[2024.04.22-05.57.54:207][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-05.57.54:217][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.22-05.57.54:221][ 23]LogWorld: UWorld::CleanupWorld for Second_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-05.57.54:222][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-05.57.54:231][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.22-05.57.54:238][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.22-05.57.54:251][ 23]LogAudio: Display: Audio Device (ID: 1) registered with world 'Second_Maze_Level'.
+[2024.04.22-05.57.54:251][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-05.57.54:252][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-05.57.54:252][ 23]LogAIModule: Creating AISystem for world Second_Maze_Level
+[2024.04.22-05.57.54:432][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.22-05.57.54:433][ 23]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.04.22-05.57.54:433][ 23]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.04.22-05.57.54:444][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.22-05.57.54:451][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.22-05.57.54:452][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2024.04.22-05.57.54:839][ 28]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.41s
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: ================================================
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Total job queries 117, among them cache hits 16 (13.68%)
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 80 distinct outputs (83.33%)
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: RAM used: 2.64 MiB of 819.20 MiB budget. Usage: 0.32%
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Shaders Compiled: 83
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Jobs assigned 86, completed 83 (96.51%)
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Average time worker was idle: 106.21 s
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Time job spent in pending queue: average 4.06 s, longest 15.12 s
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Job execution time: average 7.71 s, max 14.72 s
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Job life time (pending + execution): average 11.91 s, max 17.49
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Shader code size: average 49.143 KiB, min 32.617 KiB, max 72.324 KiB
+[2024.04.22-05.57.55:619][ 40]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.87 s
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 3.07 jobs/batch
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Average processing rate: 4.40 jobs/sec
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Total thread time: 125.268 s
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Total thread preprocess time: 5.069 s
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Percentage time preprocessing: 4.05%
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Effective parallelization: 6.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 1.95 sec, max 1.98 sec, min 1.91 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.75% of total time (compiled    4 times, average 2.11 sec, max 3.38 sec, min 0.84 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.52% of total time (compiled    4 times, average 2.04 sec, max 3.27 sec, min 0.76 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.16% of total time (compiled    4 times, average 1.93 sec, max 3.01 sec, min 0.91 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.15% of total time (compiled    4 times, average 1.93 sec, max 3.00 sec, min 0.81 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ - 6.14% of total time (compiled    4 times, average 1.92 sec, max 3.18 sec, min 0.65 sec)
+[2024.04.22-05.57.55:620][ 40]LogShaderCompilers: Display: ================================================
+[2024.04.22-06.09.12:974][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.22-06.09.13:085][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.09.13:147][343]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-06.09.13:147][343]Cmd: MAP LOAD FILE="../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.22-06.09.13:147][343]LightingResults: New page: Lighting Build
+[2024.04.22-06.09.13:147][343]LoadErrors: New page: Loading map: First_Maze_Level.umap
+[2024.04.22-06.09.13:187][343]LogWorld: UWorld::CleanupWorld for Second_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-06.09.13:188][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.09.13:188][343]MapCheck: New page: Map Check
+[2024.04.22-06.09.13:188][343]LightingResults: New page: Lighting Build
+[2024.04.22-06.09.13:194][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-06.09.13:210][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.22-06.09.13:213][343]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-06.09.13:213][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.09.13:221][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.22-06.09.13:230][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.22-06.09.13:240][343]LogAudio: Display: Audio Device (ID: 1) registered with world 'First_Maze_Level'.
+[2024.04.22-06.09.13:240][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.09.13:241][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.09.13:241][343]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-06.09.13:363][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.22-06.09.13:373][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.22-06.09.13:381][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.22-06.09.13:381][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2024.04.22-06.09.29:736][882]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.09.29:850][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.09.32:599][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Items/TESTItem.TESTItem_C
+[2024.04.22-06.09.32:599][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Items/TESTItem.TESTItem_C
+[2024.04.22-06.09.32:603][964]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Items/TESTItem.TESTItem as actor: TESTItem_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.TESTItem_C_0
+[2024.04.22-06.09.32:607][964]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Items/TESTItem.TESTItem as actor: TESTItem_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.TESTItem_C_0
+[2024.04.22-06.09.33:672][996]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Items/TESTItem.TESTItem_C
+[2024.04.22-06.09.33:672][996]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Items/TESTItem.TESTItem_C
+[2024.04.22-06.09.33:676][996]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Items/TESTItem.TESTItem as actor: TESTItem_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.TESTItem_C_1
+[2024.04.22-06.09.33:679][996]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Items/TESTItem.TESTItem as actor: TESTItem_C /Game/MazeLevels/First_Maze_Level.First_Maze_Level:PersistentLevel.TESTItem_C_1
+[2024.04.22-06.09.48:044][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-06.09.48:175][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.22-06.09.48:205][449]LogSavePackage: Moving output files for package: /Game/MazeLevels/First_Maze_Level
+[2024.04.22-06.09.48:206][449]LogSavePackage: Moving '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Saved/First_Maze_Level79403A0D417FB6041F3FD4A5B787B754.tmp' to '../../../../../../Users/oddly/Documents/GitHub/CS415_maze/Content/MazeLevels/First_Maze_Level.umap'
+[2024.04.22-06.09.48:216][449]LogFileHelpers: Saving map 'First_Maze_Level' took 0.086
+[2024.04.22-06.09.48:229][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 1.78 sec)
+[2024.04.22-06.09.48:232][449]AssetCheck: New page: Asset Save: First_Maze_Level
+[2024.04.22-06.09.48:232][449]LogContentValidation: Display: Validating /Script/Engine.World /Game/MazeLevels/First_Maze_Level.First_Maze_Level
+[2024.04.22-06.09.48:883][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-06.09.48:899][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-06.09.48:899][470]PIE: New page: PIE session: First_Maze_Level (Apr 21, 2024, 8:09:48 PM)
+[2024.04.22-06.09.48:899][470]LogPlayLevel: Creating play world package: /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-06.09.48:910][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011130s)
+[2024.04.22-06.09.48:910][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MazeLevels/First_Maze_Level.First_Maze_Level to /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level (0.011240s)
+[2024.04.22-06.09.48:921][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.22-06.09.48:924][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-06.09.48:924][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-06.09.48:926][470]LogAIModule: Creating AISystem for world First_Maze_Level
+[2024.04.22-06.09.48:926][470]LogPlayLevel: PIE: World Init took: (0.003815s)
+[2024.04.22-06.09.48:927][470]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-06.09.48:927][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-06.09.48:927][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-06.09.48:929][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-06.09.48:929][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-06.09.48:929][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-06.09.48:932][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-06.09.49:051][470]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.22-06.09.49:051][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-06.09.49:051][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-06.09.49:051][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-06.09.49:054][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.22-06.09.49:054][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.22-06.09.49:057][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.22-06.09.49:057][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.22-06.09.49:057][470]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.22-06.09.49:057][470]LogAudio: Display: Audio Device (ID: 3) registered with world 'First_Maze_Level'.
+[2024.04.22-06.09.49:057][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.22-06.09.49:063][470]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.22-06.09.49:079][470]LogWorld: Bringing World /Game/MazeLevels/UEDPIE_0_First_Maze_Level.First_Maze_Level up for play (max tick rate 60) at 2024.04.22-01.09.49
+[2024.04.22-06.09.49:079][470]LogWorld: Bringing up level for play took: 0.016173
+[2024.04.22-06.09.49:083][470]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.22-06.09.49:090][470]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.22-06.09.49:090][470]PIE: Server logged in
+[2024.04.22-06.09.49:091][470]PIE: Play in editor total start time 0.193 seconds.
+[2024.04.22-06.09.51:358][595]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.04.22-06.09.51:358][595]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.22-06.09.51:358][595]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.22-06.09.52:573][668]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.22-06.09.52:573][668]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.22-06.09.55:096][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-06.09.55:096][816]LogWorld: BeginTearingDown for /Game/MazeLevels/UEDPIE_0_First_Maze_Level
+[2024.04.22-06.09.55:096][816]LogWorld: UWorld::CleanupWorld for First_Maze_Level, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-06.09.55:099][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.09.55:109][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-06.09.55:115][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-06.09.55:122][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-06.09.55:123][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.22-06.09.55:123][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.22-06.09.55:125][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.22-06.09.55:143][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.22-06.09.55:224][817]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.22-06.09.57:392][895]Cmd: DELETE
+[2024.04.22-06.09.57:393][895]Cmd: ACTOR DELETE
+[2024.04.22-06.09.57:478][895]LogEditorActor: Deleted Actor: TESTItem_C
+[2024.04.22-06.09.57:485][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.22-06.09.57:487][895]LogEditorActor: Deleted 1 Actors (0.079 secs)
