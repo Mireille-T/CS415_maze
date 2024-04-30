@@ -6,3 +6,4 @@
 - ["Keycard"](https://skfb.ly/6oCoM) by Lio Pearson is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 - ["Sci Fi Power Cell"](https://skfb.ly/oCBZG) by roger.soucy is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 - ["Electrical Control Panel sci-fi"](https://skfb.ly/oRJOr) by aleksfotoart is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
+- ["Modular Airduct Rectangular 01 4k"](https://skfb.ly/osKn7) by mohamedhussien is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
