@@ -7,4 +7,4 @@
 - ["Sci Fi Power Cell"](https://skfb.ly/oCBZG) by roger.soucy is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 - ["Electrical Control Panel sci-fi"](https://skfb.ly/oRJOr) by aleksfotoart is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 - ["Modular Airduct Rectangular 01 4k"](https://skfb.ly/osKn7) by mohamedhussien is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
-- ["Osiris Mothership"](https://skfb.ly/6RFKS) by alx_flameniro is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
+- ["Pre- Adamite- Saucer-Mothership"](https://skfb.ly/6qJRx) by rene-armenta is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
